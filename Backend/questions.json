@@ -1,0 +1,4721 @@
+[
+  {
+    "id": 1,
+    "question": "This country is the world's leading exporter of saffron.",
+    "choices": [
+      "Iran",
+      "India",
+      "Morocco",
+      "Spain"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 2,
+    "question": "This African country has three capital cities: Pretoria, Bloemfontein, and Cape Town.",
+    "choices": [
+      "South Africa",
+      "Nigeria",
+      "Kenya",
+      "Ethiopia"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 3,
+    "question": "This country is known for the colorful witches\u2019 market in La Paz.",
+    "choices": [
+      "Bolivia",
+      "Peru",
+      "Ecuador",
+      "Chile"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "id": 4,
+    "question": "This country is home to the ancient city of Anuradhapura, a center of Therav\u0101da Buddhism.",
+    "choices": [
+      "Sri Lanka",
+      "Thailand",
+      "India",
+      "Myanmar"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 5,
+    "question": "This country has the oldest functioning democracy, dating back to 930 AD.",
+    "choices": [
+      "Iceland",
+      "Sweden",
+      "Greece",
+      "United Kingdom"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": 6,
+    "question": "This country\u2019s name translates to 'Land of the Thunder Dragon.'",
+    "choices": [
+      "Bhutan",
+      "Mongolia",
+      "Nepal",
+      "Thailand"
+    ],
+    "answer": "Bhutan"
+  },
+  {
+    "id": 7,
+    "question": "This country is completely surrounded by South Africa.",
+    "choices": [
+      "Lesotho",
+      "Swaziland",
+      "Botswana",
+      "Namibia"
+    ],
+    "answer": "Lesotho"
+  },
+  {
+    "id": 8,
+    "question": "This country was the first to grant women the right to vote in 1893.",
+    "choices": [
+      "New Zealand",
+      "Australia",
+      "Canada",
+      "Norway"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 9,
+    "question": "This country is known for having more sheep than people.",
+    "choices": [
+      "New Zealand",
+      "Mongolia",
+      "Wales",
+      "Iceland"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 10,
+    "question": "This country has a city that straddles two continents.",
+    "choices": [
+      "Turkey",
+      "Russia",
+      "Kazakhstan",
+      "Egypt"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": 12,
+    "question": "This country is the only one in the world that lies on all four hemispheres.",
+    "choices": [
+      "Kiribati",
+      "Indonesia",
+      "Fiji",
+      "Samoa"
+    ],
+    "answer": "Kiribati"
+  },
+  {
+    "id": 11,
+    "question": "This country is the largest producer of coffee in the world.",
+    "choices": [
+      "Brazil",
+      "Colombia",
+      "Vietnam",
+      "Ethiopia"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 13,
+    "question": "This country has the highest number of islands within its territory.",
+    "choices": [
+      "Sweden",
+      "Indonesia",
+      "Philippines",
+      "Norway"
+    ],
+    "answer": "Sweden"
+  },
+  {
+    "id": 14,
+    "question": "This European country uses the lek as its official currency.",
+    "choices": [
+      "Albania",
+      "Latvia",
+      "Moldova",
+      "North Macedonia"
+    ],
+    "answer": "Albania"
+  },
+  {
+    "id": 15,
+    "question": "This country\u2019s capital city is the highest in the world by elevation.",
+    "choices": [
+      "Bolivia",
+      "Peru",
+      "Nepal",
+      "Colombia"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "id": 16,
+    "question": "This South American country is named after an Italian city.",
+    "choices": [
+      "Venezuela",
+      "Colombia",
+      "Paraguay",
+      "Uruguay"
+    ],
+    "answer": "Venezuela"
+  },
+  {
+    "id": 17,
+    "question": "This country is the largest landlocked country in the world.",
+    "choices": [
+      "Kazakhstan",
+      "Mongolia",
+      "Uzbekistan",
+      "Chad"
+    ],
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 18,
+    "question": "This country is known for its unique policy of Gross National Happiness.",
+    "choices": [
+      "Bhutan",
+      "Sweden",
+      "Finland",
+      "Denmark"
+    ],
+    "answer": "Bhutan"
+  },
+  {
+    "id": 19,
+    "question": "This country was once known as Abyssinia.",
+    "choices": [
+      "Ethiopia",
+      "Somalia",
+      "Sudan",
+      "Eritrea"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 20,
+    "question": "This country is the smallest in South America by area.",
+    "choices": [
+      "Suriname",
+      "Guyana",
+      "Uruguay",
+      "Paraguay"
+    ],
+    "answer": "Suriname"
+  },
+  {
+    "id": 21,
+    "question": "This country is the only one in Central America without a Caribbean coastline.",
+    "choices": [
+      "El Salvador",
+      "Honduras",
+      "Guatemala",
+      "Nicaragua"
+    ],
+    "answer": "El Salvador"
+  },
+  {
+    "id": 22,
+    "question": "This Asian country has the most volcanoes in the world.",
+    "choices": [
+      "Indonesia",
+      "Japan",
+      "Philippines",
+      "Russia"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 23,
+    "question": "This country has no official capital, even though its government is seated in Bern.",
+    "choices": [
+      "Switzerland",
+      "Liechtenstein",
+      "Austria",
+      "Luxembourg"
+    ],
+    "answer": "Switzerland"
+  },
+  {
+    "id": 24,
+    "question": "This country was the first to ban plastic bags nationwide.",
+    "choices": [
+      "Rwanda",
+      "Kenya",
+      "Germany",
+      "Bhutan"
+    ],
+    "answer": "Rwanda"
+  },
+  {
+    "id": 25,
+    "question": "This country shares the longest undefended border in the world with the USA.",
+    "choices": [
+      "Canada",
+      "Mexico",
+      "Russia",
+      "United Kingdom"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": 26,
+    "question": "This Asian country has more motorcycles than cars.",
+    "choices": [
+      "Vietnam",
+      "Thailand",
+      "India",
+      "Bangladesh"
+    ],
+    "answer": "Vietnam"
+  },
+  {
+    "id": 27,
+    "question": "This European microstate has the highest GDP per capita.",
+    "choices": [
+      "Luxembourg",
+      "Monaco",
+      "Liechtenstein",
+      "Andorra"
+    ],
+    "answer": "Luxembourg"
+  },
+  {
+    "id": 28,
+    "question": "This country is home to the historical Timbuktu.",
+    "choices": [
+      "Mali",
+      "Niger",
+      "Chad",
+      "Burkina Faso"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "question": "This European country is famous for inventing the sauna.",
+    "choices": [
+      "Finland",
+      "Sweden",
+      "Norway",
+      "Estonia"
+    ],
+    "answer": "Finland",
+    "id": 29
+  },
+  {
+    "question": "This country is home to the Darvaza gas crater, also known as the 'Door to Hell.'",
+    "choices": [
+      "Turkmenistan",
+      "Kazakhstan",
+      "Uzbekistan",
+      "Iran"
+    ],
+    "answer": "Turkmenistan",
+    "id": 30
+  },
+  {
+    "question": "This country is the only one named after a woman.",
+    "choices": [
+      "Saint Lucia",
+      "Georgia",
+      "El Salvador",
+      "Dominica"
+    ],
+    "answer": "Saint Lucia",
+    "id": 31
+  },
+  {
+    "question": "This country\u2019s capital is the only one in the world without a river.",
+    "choices": [
+      "Saudi Arabia",
+      "Kuwait",
+      "Qatar",
+      "Oman"
+    ],
+    "answer": "Saudi Arabia",
+    "id": 32
+  },
+  {
+    "question": "This country has the most pyramids in the world, even more than Egypt.",
+    "choices": [
+      "Sudan",
+      "Mexico",
+      "China",
+      "India"
+    ],
+    "answer": "Sudan",
+    "id": 33
+  },
+  {
+    "question": "This country was formerly called Dahomey.",
+    "choices": [
+      "Benin",
+      "Togo",
+      "Burkina Faso",
+      "Cameroon"
+    ],
+    "answer": "Benin",
+    "id": 34
+  },
+  {
+    "question": "This country is the largest cocoa producer in the world.",
+    "choices": [
+      "C\u00f4te d'Ivoire",
+      "Ghana",
+      "Brazil",
+      "Indonesia"
+    ],
+    "answer": "C\u00f4te d'Ivoire",
+    "id": 35
+  },
+  {
+    "question": "This European country is known for its unique cheese-rolling festival.",
+    "choices": [
+      "United Kingdom",
+      "Switzerland",
+      "Netherlands",
+      "France"
+    ],
+    "answer": "United Kingdom",
+    "id": 36
+  },
+  {
+    "question": "This country has a region called Transylvania.",
+    "choices": [
+      "Romania",
+      "Hungary",
+      "Bulgaria",
+      "Slovakia"
+    ],
+    "answer": "Romania",
+    "id": 37
+  },
+  {
+    "question": "This Asian country is known for its policy of banning chewing gum imports.",
+    "choices": [
+      "Singapore",
+      "Malaysia",
+      "Brunei",
+      "Thailand"
+    ],
+    "answer": "Singapore",
+    "id": 38
+  },
+  {
+    "question": "This country is the only one that is also a continent.",
+    "choices": [
+      "Australia",
+      "Greenland",
+      "New Zealand",
+      "Papua New Guinea"
+    ],
+    "answer": "Australia",
+    "id": 39
+  },
+  {
+    "question": "This country\u2019s capital, Ulaanbaatar, is the coldest capital city in the world.",
+    "choices": [
+      "Mongolia",
+      "Russia",
+      "Kazakhstan",
+      "Finland"
+    ],
+    "answer": "Mongolia",
+    "id": 40
+  },
+  {
+    "question": "This European country does not have a word for 'please' in its native language.",
+    "choices": [
+      "Russia",
+      "Germany",
+      "Poland",
+      "Czech Republic"
+    ],
+    "answer": "Russia",
+    "id": 41
+  },
+  {
+    "question": "This country is famous for its Blue Hole, a giant marine sinkhole.",
+    "choices": [
+      "Belize",
+      "Bahamas",
+      "Barbados",
+      "Jamaica"
+    ],
+    "answer": "Belize",
+    "id": 42
+  },
+  {
+    "question": "This country was known as Siam until 1939.",
+    "choices": [
+      "Thailand",
+      "Vietnam",
+      "Cambodia",
+      "Myanmar"
+    ],
+    "answer": "Thailand",
+    "id": 43
+  },
+  {
+    "question": "This country is the only G7 member located entirely in Asia.",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "India",
+      "Singapore"
+    ],
+    "answer": "Japan",
+    "id": 44
+  },
+  {
+    "question": "This country produces more than 90% of the world\u2019s opals.",
+    "choices": [
+      "Australia",
+      "Mexico",
+      "Ethiopia",
+      "USA"
+    ],
+    "answer": "Australia",
+    "id": 45
+  },
+  {
+    "question": "This country is known for a unique social tradition called 'siesta.'",
+    "choices": [
+      "Spain",
+      "Italy",
+      "Portugal",
+      "Greece"
+    ],
+    "answer": "Spain",
+    "id": 46
+  },
+  {
+    "question": "This country\u2019s legendary city of Djenn\u00e9 is home to the largest mud-brick building in the world.",
+    "choices": [
+      "Mali",
+      "Chad",
+      "Niger",
+      "Burkina Faso"
+    ],
+    "answer": "Mali",
+    "id": 47
+  },
+  {
+    "question": "This country\u2019s name comes from the Latin word for silver.",
+    "choices": [
+      "Argentina",
+      "Chile",
+      "Peru",
+      "Brazil"
+    ],
+    "answer": "Argentina",
+    "id": 48
+  },
+  {
+    "question": "This country has the most official languages in the world.",
+    "choices": [
+      "South Africa",
+      "India",
+      "Switzerland",
+      "Papua New Guinea"
+    ],
+    "answer": "South Africa",
+    "id": 49
+  },
+  {
+    "question": "This country has more than 8,000 islands, the most of any country in Asia.",
+    "choices": [
+      "Philippines",
+      "Indonesia",
+      "Japan",
+      "Malaysia"
+    ],
+    "answer": "Philippines",
+    "id": 50
+  },
+  {
+    "question": "This country borders the most nations in the world.",
+    "choices": [
+      "Russia",
+      "China",
+      "Brazil",
+      "Germany"
+    ],
+    "answer": "China",
+    "id": 51
+  },
+  {
+    "question": "This country is the only one that borders both the Atlantic and Indian Oceans.",
+    "choices": [
+      "South Africa",
+      "Namibia",
+      "Brazil",
+      "Argentina"
+    ],
+    "answer": "South Africa",
+    "id": 52
+  },
+  {
+    "question": "This country has the oldest national anthem still in use.",
+    "choices": [
+      "Japan",
+      "France",
+      "United Kingdom",
+      "Germany"
+    ],
+    "answer": "Japan",
+    "id": 53
+  },
+  {
+    "question": "This country has a desert that receives less than 1 cm of rainfall per year.",
+    "choices": [
+      "Chile",
+      "Libya",
+      "Saudi Arabia",
+      "Egypt"
+    ],
+    "answer": "Chile",
+    "id": 54
+  },
+  {
+    "question": "This country holds the world record for most lakes.",
+    "choices": [
+      "Canada",
+      "Finland",
+      "Russia",
+      "USA"
+    ],
+    "answer": "Canada",
+    "id": 55
+  },
+  {
+    "question": "This country has a law that every male citizen must own a firearm.",
+    "choices": [
+      "Switzerland",
+      "USA",
+      "Israel",
+      "Finland"
+    ],
+    "answer": "Switzerland",
+    "id": 56
+  },
+  {
+    "id": 57,
+    "question": "This country has the lowest high point of any nation.",
+    "choices": [
+      "Maldives",
+      "Netherlands",
+      "Denmark",
+      "Qatar"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "id": 58,
+    "question": "This country has the longest national anthem by lyrics.",
+    "choices": [
+      "Greece",
+      "India",
+      "China",
+      "Brazil"
+    ],
+    "answer": "Greece"
+  },
+  {
+    "id": 59,
+    "question": "This country has no rivers at all.",
+    "choices": [
+      "Saudi Arabia",
+      "Bahrain",
+      "Kuwait",
+      "Qatar"
+    ],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": 60,
+    "question": "This country is the only one to have won a FIFA World Cup outside of its own continent.",
+    "choices": [
+      "Brazil",
+      "France",
+      "Germany",
+      "Argentina"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 61,
+    "question": "This country has the highest waterfall in the world, Angel Falls.",
+    "choices": [
+      "Venezuela",
+      "Colombia",
+      "Brazil",
+      "Peru"
+    ],
+    "answer": "Venezuela"
+  },
+  {
+    "id": 62,
+    "question": "This country is known for its unique underwater post office.",
+    "choices": [
+      "Vanuatu",
+      "Maldives",
+      "Fiji",
+      "Bahamas"
+    ],
+    "answer": "Vanuatu"
+  },
+  {
+    "id": 63,
+    "question": "This country is the flattest in the world by elevation change.",
+    "choices": [
+      "Maldives",
+      "Denmark",
+      "Bangladesh",
+      "Netherlands"
+    ],
+    "answer": "Maldives"
+  },
+  {
+    "id": 64,
+    "question": "This country is entirely comprised of coral atolls and islands.",
+    "choices": [
+      "Marshall Islands",
+      "Tuvalu",
+      "Kiribati",
+      "Palau"
+    ],
+    "answer": "Marshall Islands"
+  },
+  {
+    "id": 65,
+    "question": "This country has the largest population without a coastline.",
+    "choices": [
+      "Ethiopia",
+      "Kazakhstan",
+      "Afghanistan",
+      "Mongolia"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 66,
+    "question": "This country is the only one in the world to be doubly landlocked in Europe.",
+    "choices": [
+      "Liechtenstein",
+      "Luxembourg",
+      "San Marino",
+      "Andorra"
+    ],
+    "answer": "Liechtenstein"
+  },
+  {
+    "id": 67,
+    "question": "This country is home to the world's northernmost capital city.",
+    "choices": [
+      "Iceland",
+      "Finland",
+      "Norway",
+      "Sweden"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": 68,
+    "question": "This country has an official language that is completely unique and unrelated to any other.",
+    "choices": [
+      "Hungary",
+      "Georgia",
+      "Basque Country",
+      "Armenia"
+    ],
+    "answer": "Basque Country"
+  },
+  {
+    "id": 69,
+    "question": "This country is the only one to span four hemispheres.",
+    "choices": [
+      "Kiribati",
+      "Indonesia",
+      "Fiji",
+      "Samoa"
+    ],
+    "answer": "Kiribati"
+  },
+  {
+    "id": 70,
+    "question": "This country is the only country with more lakes than roads.",
+    "choices": [
+      "Canada",
+      "Finland",
+      "Sweden",
+      "Russia"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": 71,
+    "question": "This country is the smallest by area in mainland Africa.",
+    "choices": [
+      "Gambia",
+      "Djibouti",
+      "Togo",
+      "Equatorial Guinea"
+    ],
+    "answer": "Gambia"
+  },
+  {
+    "id": 72,
+    "question": "This country is made up of over 17,000 islands.",
+    "choices": [
+      "Indonesia",
+      "Philippines",
+      "Japan",
+      "Malaysia"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 73,
+    "question": "This country is the southernmost in mainland Africa.",
+    "choices": [
+      "South Africa",
+      "Lesotho",
+      "Namibia",
+      "Eswatini"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 74,
+    "question": "This country has a capital city called Funafuti.",
+    "choices": [
+      "Tuvalu",
+      "Tonga",
+      "Samoa",
+      "Micronesia"
+    ],
+    "answer": "Tuvalu"
+  },
+  {
+    "id": 75,
+    "question": "This country was the first in the world to adopt Christianity as the state religion.",
+    "choices": [
+      "Armenia",
+      "Italy",
+      "Greece",
+      "Georgia"
+    ],
+    "answer": "Armenia"
+  },
+  {
+    "id": 76,
+    "question": "This country has the world's longest place name still in use.",
+    "choices": [
+      "New Zealand",
+      "Wales",
+      "Thailand",
+      "Australia"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 77,
+    "question": "This country is home to the source of the Nile River.",
+    "choices": [
+      "Uganda",
+      "Ethiopia",
+      "Sudan",
+      "Rwanda"
+    ],
+    "answer": "Uganda"
+  },
+  {
+    "id": 78,
+    "question": "This country invented the Cyrillic alphabet.",
+    "choices": [
+      "Bulgaria",
+      "Russia",
+      "Ukraine",
+      "Serbia"
+    ],
+    "answer": "Bulgaria"
+  },
+  {
+    "id": 79,
+    "question": "This country has a clock tower older than Big Ben.",
+    "choices": [
+      "Morocco",
+      "France",
+      "Germany",
+      "Turkey"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 80,
+    "question": "This country has the largest cave in the world, Son Doong Cave.",
+    "choices": [
+      "Vietnam",
+      "China",
+      "Thailand",
+      "Malaysia"
+    ],
+    "answer": "Vietnam"
+  },
+  {
+    "id": 81,
+    "question": "This country has a \u201cdoor to hell\u201d gas crater that has been burning since the 1970s.",
+    "choices": [
+      "Turkmenistan",
+      "Uzbekistan",
+      "Iran",
+      "Iraq"
+    ],
+    "answer": "Turkmenistan"
+  },
+  {
+    "id": 82,
+    "question": "This country contains the oldest living tree on Earth.",
+    "choices": [
+      "USA",
+      "Chile",
+      "Canada",
+      "Norway"
+    ],
+    "answer": "USA"
+  },
+  {
+    "id": 83,
+    "question": "This country is home to the largest temple complex, Angkor Wat.",
+    "choices": [
+      "Cambodia",
+      "Thailand",
+      "Laos",
+      "Vietnam"
+    ],
+    "answer": "Cambodia"
+  },
+  {
+    "id": 84,
+    "question": "This country has the largest coral reef system in the world.",
+    "choices": [
+      "Australia",
+      "Belize",
+      "Philippines",
+      "Indonesia"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 85,
+    "question": "This country exports more tea than any other.",
+    "choices": [
+      "China",
+      "India",
+      "Sri Lanka",
+      "Kenya"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 86,
+    "question": "This country is where the majority of the Amazon Rainforest is located.",
+    "choices": [
+      "Brazil",
+      "Colombia",
+      "Peru",
+      "Ecuador"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 87,
+    "question": "This country has the world's oldest parliament still in existence.",
+    "choices": [
+      "Iceland",
+      "UK",
+      "Sweden",
+      "Norway"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": 88,
+    "question": "This country has more volcanoes than any other.",
+    "choices": [
+      "Indonesia",
+      "Japan",
+      "Philippines",
+      "Russia"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 89,
+    "question": "This country was the first to reach outer space with a satellite.",
+    "choices": [
+      "Russia",
+      "USA",
+      "Germany",
+      "China"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": 90,
+    "question": "This country is the smallest country by area in the world.",
+    "choices": [
+      "Vatican City",
+      "Monaco",
+      "Nauru",
+      "San Marino"
+    ],
+    "answer": "Vatican City"
+  },
+  {
+    "id": 91,
+    "question": "This country has a national animal that\u2019s mythical \u2014 the unicorn.",
+    "choices": [
+      "Scotland",
+      "Wales",
+      "Ireland",
+      "England"
+    ],
+    "answer": "Scotland"
+  },
+  {
+    "id": 92,
+    "question": "This country has a glacier that moves faster than any other on Earth.",
+    "choices": [
+      "Greenland",
+      "Antarctica",
+      "Canada",
+      "Norway"
+    ],
+    "answer": "Greenland"
+  },
+  {
+    "id": 93,
+    "question": "This country is known for its fjords and dramatic coastline.",
+    "choices": [
+      "Norway",
+      "Iceland",
+      "New Zealand",
+      "Chile"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": 94,
+    "question": "This country is a constitutional monarchy led by an emperor.",
+    "choices": [
+      "Japan",
+      "Thailand",
+      "UK",
+      "Morocco"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 95,
+    "question": "This country has the most freshwater of any in the world.",
+    "choices": [
+      "Brazil",
+      "Russia",
+      "Canada",
+      "USA"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 96,
+    "question": "This country was formerly known as Persia.",
+    "choices": [
+      "Iran",
+      "Iraq",
+      "Syria",
+      "Turkey"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 97,
+    "question": "This country has the highest road in the world, Khardung La Pass.",
+    "choices": [
+      "India",
+      "Nepal",
+      "Pakistan",
+      "China"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 98,
+    "question": "This country\u2019s national anthem has no official lyrics.",
+    "choices": [
+      "Spain",
+      "Italy",
+      "France",
+      "Germany"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": 99,
+    "question": "This country is home to the Danakil Depression, one of the hottest places on Earth.",
+    "choices": [
+      "Ethiopia",
+      "Iran",
+      "Chad",
+      "Sudan"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 100,
+    "question": "This country was once part of Gran Colombia.",
+    "choices": [
+      "Ecuador",
+      "Argentina",
+      "Chile",
+      "Paraguay"
+    ],
+    "answer": "Ecuador"
+  },
+  {
+    "id": 101,
+    "question": "This country has a capital with the same name as the country itself.",
+    "choices": [
+      "Mexico",
+      "Guatemala",
+      "Panama",
+      "San Marino"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": 102,
+    "question": "This country has the largest number of UNESCO World Heritage sites.",
+    "choices": [
+      "Italy",
+      "China",
+      "India",
+      "France"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": 103,
+    "question": "This country contains a lake with pink-colored water, Lake Retba.",
+    "choices": [
+      "Senegal",
+      "Namibia",
+      "Kenya",
+      "Tanzania"
+    ],
+    "answer": "Senegal"
+  },
+  {
+    "id": 104,
+    "question": "This country is known for a unique tradition called 'coffin art', crafting artistic coffins.",
+    "choices": [
+      "Ghana",
+      "Nigeria",
+      "Benin",
+      "Cameroon"
+    ],
+    "answer": "Ghana"
+  },
+  {
+    "id": 105,
+    "question": "This country is home to the world's largest radio telescope.",
+    "choices": [
+      "China",
+      "USA",
+      "Russia",
+      "India"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 106,
+    "question": "This country produces the most maple syrup globally.",
+    "choices": [
+      "Canada",
+      "USA",
+      "Sweden",
+      "Norway"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": 107,
+    "question": "This country is known for a city with underground churches carved from rock.",
+    "choices": [
+      "Ethiopia",
+      "Greece",
+      "Armenia",
+      "Israel"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 108,
+    "question": "This country is the only one whose name includes an article in English.",
+    "choices": [
+      "The Gambia",
+      "Czech Republic",
+      "Dominican Republic",
+      "Philippines"
+    ],
+    "answer": "The Gambia"
+  },
+  {
+    "id": 109,
+    "question": "This country\u2019s island of Socotra has unique dragon blood trees.",
+    "choices": [
+      "Yemen",
+      "Oman",
+      "UAE",
+      "Saudi Arabia"
+    ],
+    "answer": "Yemen"
+  },
+  {
+    "id": 110,
+    "question": "This country has the longest national railway network in the world.",
+    "choices": [
+      "Russia",
+      "USA",
+      "India",
+      "China"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": 111,
+    "question": "This country\u2019s capital was relocated in 2005 to a new planned city.",
+    "choices": [
+      "Myanmar",
+      "Brazil",
+      "Kazakhstan",
+      "Nigeria"
+    ],
+    "answer": "Myanmar"
+  },
+  {
+    "id": 112,
+    "question": "This country\u2019s largest ethnic group is the Pashtuns.",
+    "choices": [
+      "Afghanistan",
+      "Pakistan",
+      "Iran",
+      "Tajikistan"
+    ],
+    "answer": "Afghanistan"
+  },
+  {
+    "id": 113,
+    "question": "This country has a region called Wallonia where French is predominantly spoken.",
+    "choices": [
+      "Belgium",
+      "Luxembourg",
+      "France",
+      "Switzerland"
+    ],
+    "answer": "Belgium"
+  },
+  {
+    "id": 114,
+    "question": "This country is known for the ancient city of Carthage.",
+    "choices": [
+      "Tunisia",
+      "Morocco",
+      "Libya",
+      "Algeria"
+    ],
+    "answer": "Tunisia"
+  },
+  {
+    "id": 115,
+    "question": "This country is home to the deepest freshwater lake in the world.",
+    "choices": [
+      "Russia",
+      "Canada",
+      "Norway",
+      "USA"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": 116,
+    "question": "This country contains a 'door to the desert' known as the Erg Chebbi dunes.",
+    "choices": [
+      "Morocco",
+      "Egypt",
+      "Sudan",
+      "Mauritania"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 117,
+    "question": "This country is where the Dogon people live, known for their astronomical knowledge.",
+    "choices": [
+      "Mali",
+      "Burkina Faso",
+      "Niger",
+      "Chad"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "id": 118,
+    "question": "This country has a national sport called 'buzkashi' involving goat carcasses.",
+    "choices": [
+      "Afghanistan",
+      "Uzbekistan",
+      "Kazakhstan",
+      "Kyrgyzstan"
+    ],
+    "answer": "Afghanistan"
+  },
+  {
+    "id": 119,
+    "question": "This country hosts the world's largest tomato fight, La Tomatina.",
+    "choices": [
+      "Spain",
+      "Italy",
+      "Mexico",
+      "Argentina"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": 120,
+    "question": "This country has a flag that includes an AK-47 rifle.",
+    "choices": [
+      "Mozambique",
+      "Angola",
+      "Eritrea",
+      "Somalia"
+    ],
+    "answer": "Mozambique"
+  },
+  {
+    "id": 121,
+    "question": "This country built the world's first known dam, the Sadd el-Kafara.",
+    "choices": [
+      "Egypt",
+      "Iraq",
+      "India",
+      "Pakistan"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "id": 122,
+    "question": "This country has the lowest population density in Europe.",
+    "choices": [
+      "Iceland",
+      "Finland",
+      "Estonia",
+      "Norway"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": 123,
+    "question": "This country is home to the world\u2019s largest lava lake.",
+    "choices": [
+      "DR Congo",
+      "Ethiopia",
+      "Iceland",
+      "Chile"
+    ],
+    "answer": "DR Congo"
+  },
+  {
+    "id": 124,
+    "question": "This country is known for the Terracotta Army.",
+    "choices": [
+      "China",
+      "Mongolia",
+      "Japan",
+      "South Korea"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 125,
+    "question": "This country has a rotating capital due to seasonal weather changes.",
+    "choices": [
+      "Swaziland",
+      "Bolivia",
+      "South Africa",
+      "Malaysia"
+    ],
+    "answer": "Swaziland"
+  },
+  {
+    "id": 126,
+    "question": "This country was the first in the world to grant legal personhood to a river.",
+    "choices": [
+      "New Zealand",
+      "India",
+      "Canada",
+      "Nepal"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 127,
+    "question": "This country has a sacred site known as Uluru.",
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "Indonesia",
+      "Papua New Guinea"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 128,
+    "question": "This country\u2019s capital is the only one built in a rainforest.",
+    "choices": [
+      "Brunei",
+      "Suriname",
+      "Gabon",
+      "Belize"
+    ],
+    "answer": "Brunei"
+  },
+  {
+    "id": 129,
+    "question": "This country produces over 70% of the world's vanilla.",
+    "choices": [
+      "Madagascar",
+      "Indonesia",
+      "Mexico",
+      "Tanzania"
+    ],
+    "answer": "Madagascar"
+  },
+  {
+    "id": 130,
+    "question": "This country has a town called Hell that freezes over in winter.",
+    "choices": [
+      "Norway",
+      "Finland",
+      "Iceland",
+      "Sweden"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": 131,
+    "question": "This country is known for its Okavango Delta, which floods seasonally.",
+    "choices": [
+      "Botswana",
+      "Namibia",
+      "Zambia",
+      "Zimbabwe"
+    ],
+    "answer": "Botswana"
+  },
+  {
+    "id": 132,
+    "question": "This country has a region called Kashmir that is disputed territory.",
+    "choices": [
+      "India",
+      "China",
+      "Pakistan",
+      "Afghanistan"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 133,
+    "question": "This country is famous for inventing the game of chess.",
+    "choices": [
+      "India",
+      "Iran",
+      "Russia",
+      "Turkey"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 134,
+    "question": "This country is home to the world's longest pedestrian suspension bridge.",
+    "choices": [
+      "Portugal",
+      "Switzerland",
+      "Austria",
+      "Italy"
+    ],
+    "answer": "Portugal"
+  },
+  {
+    "id": 135,
+    "question": "This country has the largest natural archipelago in the world.",
+    "choices": [
+      "Philippines",
+      "Indonesia",
+      "Norway",
+      "Canada"
+    ],
+    "answer": "Philippines"
+  },
+  {
+    "id": 136,
+    "question": "This country\u2019s traditional dish is called 'injera'.",
+    "choices": [
+      "Ethiopia",
+      "Somalia",
+      "Eritrea",
+      "Sudan"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 137,
+    "question": "This country\u2019s official motto is 'Truth Prevails'.",
+    "choices": [
+      "Czech Republic",
+      "Slovakia",
+      "Poland",
+      "Hungary"
+    ],
+    "answer": "Czech Republic"
+  },
+  {
+    "id": 138,
+    "question": "This country is known for its 'floating islands' made of reeds on Lake Titicaca.",
+    "choices": [
+      "Peru",
+      "Bolivia",
+      "Colombia",
+      "Paraguay"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": 139,
+    "question": "This country is home to the UNESCO site Bagan, a vast complex of Buddhist temples.",
+    "choices": [
+      "Myanmar",
+      "Thailand",
+      "Cambodia",
+      "Sri Lanka"
+    ],
+    "answer": "Myanmar"
+  },
+  {
+    "id": 140,
+    "question": "This country\u2019s territory includes the world\u2019s easternmost point by timezone.",
+    "choices": [
+      "Kiribati",
+      "Fiji",
+      "Tonga",
+      "Samoa"
+    ],
+    "answer": "Kiribati"
+  },
+  {
+    "id": 141,
+    "question": "This country celebrates the Bun Festival, involving buns thrown from a tower.",
+    "choices": [
+      "Hong Kong",
+      "Taiwan",
+      "Japan",
+      "Thailand"
+    ],
+    "answer": "Hong Kong"
+  },
+  {
+    "id": 142,
+    "question": "This country is known for its geothermal Blue Lagoon spa.",
+    "choices": [
+      "Iceland",
+      "Norway",
+      "Finland",
+      "Greenland"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": 143,
+    "question": "This country is home to the 'Door of No Return', a historic slave trade memorial.",
+    "choices": [
+      "Benin",
+      "Ghana",
+      "Senegal",
+      "Nigeria"
+    ],
+    "answer": "Benin"
+  },
+  {
+    "id": 144,
+    "question": "This country contains the Niger River's inner delta and the city of Gao, a medieval trade hub.",
+    "choices": [
+      "Mali",
+      "Niger",
+      "Nigeria",
+      "Chad"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "id": 145,
+    "question": "This country has no permanent rivers despite its tropical climate.",
+    "choices": [
+      "Bahamas",
+      "Barbados",
+      "Maldives",
+      "Bahrain"
+    ],
+    "answer": "Bahamas"
+  },
+  {
+    "id": 146,
+    "question": "This country is the world\u2019s largest producer of quinoa.",
+    "choices": [
+      "Bolivia",
+      "Peru",
+      "Ecuador",
+      "Argentina"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "id": 147,
+    "question": "This country\u2019s name means 'Land of the Free'.",
+    "choices": [
+      "Thailand",
+      "Liberty",
+      "Liberia",
+      "Pakistan"
+    ],
+    "answer": "Thailand"
+  },
+  {
+    "id": 148,
+    "question": "This country\u2019s capital is split into two distinct cities: Buda and Pest.",
+    "choices": [
+      "Hungary",
+      "Austria",
+      "Slovakia",
+      "Czech Republic"
+    ],
+    "answer": "Hungary"
+  },
+  {
+    "id": 149,
+    "question": "This country is known for the Himba people, who cover themselves in red ochre.",
+    "choices": [
+      "Namibia",
+      "Zambia",
+      "Botswana",
+      "Mozambique"
+    ],
+    "answer": "Namibia"
+  },
+  {
+    "id": 150,
+    "question": "This country has a vast sandstone formation known as Kata Tjuta near its red center.",
+    "choices": [
+      "Australia",
+      "New Zealand",
+      "Namibia",
+      "USA"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 151,
+    "question": "This country has a vast network of canals in its capital city.",
+    "choices": [
+      "Netherlands",
+      "Belgium",
+      "Denmark",
+      "Germany"
+    ],
+    "answer": "Netherlands"
+  },
+  {
+    "id": 152,
+    "question": "This country\u2019s national animal is a mythical creature called the Garuda.",
+    "choices": [
+      "Indonesia",
+      "Thailand",
+      "India",
+      "Nepal"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 153,
+    "question": "This country is home to the historic city of Samarkand.",
+    "choices": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Turkmenistan",
+      "Iran"
+    ],
+    "answer": "Uzbekistan"
+  },
+  {
+    "id": 154,
+    "question": "This country\u2019s Wadi Rum desert has been used as a filming location for many Mars movies.",
+    "choices": [
+      "Jordan",
+      "Morocco",
+      "Tunisia",
+      "Algeria"
+    ],
+    "answer": "Jordan"
+  },
+  {
+    "id": 155,
+    "question": "This country\u2019s citizens are legally required to vote.",
+    "choices": [
+      "Australia",
+      "Brazil",
+      "Argentina",
+      "Singapore"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 156,
+    "question": "This country features the unique rock formations of Cappadocia.",
+    "choices": [
+      "Turkey",
+      "Greece",
+      "Iran",
+      "Armenia"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": 157,
+    "question": "This country is landlocked and surrounded entirely by another country.",
+    "choices": [
+      "Lesotho",
+      "Vatican City",
+      "San Marino",
+      "Liechtenstein"
+    ],
+    "answer": "Lesotho"
+  },
+  {
+    "id": 158,
+    "question": "This country\u2019s residents speak Luxembourgish, French, and German.",
+    "choices": [
+      "Luxembourg",
+      "Belgium",
+      "France",
+      "Switzerland"
+    ],
+    "answer": "Luxembourg"
+  },
+  {
+    "id": 159,
+    "question": "This country is the only in the Americas with a French-speaking majority.",
+    "choices": [
+      "Haiti",
+      "Canada",
+      "Guadeloupe",
+      "Martinique"
+    ],
+    "answer": "Haiti"
+  },
+  {
+    "id": 160,
+    "question": "This country\u2019s capital is known for its canals and gondolas.",
+    "choices": [
+      "Italy",
+      "Netherlands",
+      "France",
+      "Spain"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": 161,
+    "question": "This country\u2019s highlands are home to wild llamas and alpacas.",
+    "choices": [
+      "Peru",
+      "Chile",
+      "Ecuador",
+      "Bolivia"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": 162,
+    "question": "This country has the most spoken native languages of any country.",
+    "choices": [
+      "Papua New Guinea",
+      "India",
+      "Indonesia",
+      "Nigeria"
+    ],
+    "answer": "Papua New Guinea"
+  },
+  {
+    "id": 163,
+    "question": "This country is known for its tradition of eagle hunting on horseback.",
+    "choices": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Mongolia",
+      "Uzbekistan"
+    ],
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 164,
+    "question": "This country is one of the few that does not use the metric system.",
+    "choices": [
+      "USA",
+      "Liberia",
+      "Myanmar",
+      "UK"
+    ],
+    "answer": "USA"
+  },
+  {
+    "id": 165,
+    "question": "This country\u2019s island of Bali is a major tourist destination.",
+    "choices": [
+      "Indonesia",
+      "Thailand",
+      "Malaysia",
+      "Philippines"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 166,
+    "question": "This country has a famous region called Patagonia.",
+    "choices": [
+      "Argentina",
+      "Chile",
+      "Brazil",
+      "Bolivia"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": 167,
+    "question": "This country hosts the Harbin Ice Festival with massive ice sculptures.",
+    "choices": [
+      "China",
+      "Russia",
+      "Japan",
+      "South Korea"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 168,
+    "question": "This country\u2019s food includes dishes like 'pho' and 'banh mi'.",
+    "choices": [
+      "Vietnam",
+      "Thailand",
+      "Cambodia",
+      "Malaysia"
+    ],
+    "answer": "Vietnam"
+  },
+  {
+    "id": 169,
+    "question": "This country is home to Jeju Island, a popular volcanic vacation spot.",
+    "choices": [
+      "South Korea",
+      "Japan",
+      "Taiwan",
+      "China"
+    ],
+    "answer": "South Korea"
+  },
+  {
+    "id": 170,
+    "question": "This country is known for the Moai statues on Easter Island.",
+    "choices": [
+      "Chile",
+      "Peru",
+      "Ecuador",
+      "Argentina"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": 171,
+    "question": "This country has an entire underground city in Coober Pedy.",
+    "choices": [
+      "Australia",
+      "USA",
+      "South Africa",
+      "Canada"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 172,
+    "question": "This country was the site of the 1994 genocide that killed over 800,000 people.",
+    "choices": [
+      "Rwanda",
+      "Uganda",
+      "Burundi",
+      "South Sudan"
+    ],
+    "answer": "Rwanda"
+  },
+  {
+    "id": 173,
+    "question": "This country\u2019s language is derived from Latin but is not in Western Europe.",
+    "choices": [
+      "Romania",
+      "Moldova",
+      "Albania",
+      "Slovenia"
+    ],
+    "answer": "Romania"
+  },
+  {
+    "id": 174,
+    "question": "This country\u2019s capital is located at the confluence of the Blue and White Nile.",
+    "choices": [
+      "Sudan",
+      "Egypt",
+      "Ethiopia",
+      "South Sudan"
+    ],
+    "answer": "Sudan"
+  },
+  {
+    "id": 175,
+    "question": "This landlocked country has its own merchant navy despite having no coastline.",
+    "choices": [
+      "Paraguay",
+      "Mongolia",
+      "Laos",
+      "Nepal"
+    ],
+    "answer": "Paraguay"
+  },
+  {
+    "id": 176,
+    "question": "This country is home to the Rwenzori Mountains, also called the 'Mountains of the Moon'.",
+    "choices": [
+      "Uganda",
+      "Rwanda",
+      "Tanzania",
+      "Kenya"
+    ],
+    "answer": "Uganda"
+  },
+  {
+    "id": 177,
+    "question": "This country is the site of the oldest known mine, used in the Stone Age.",
+    "choices": [
+      "Swaziland",
+      "Namibia",
+      "Botswana",
+      "South Africa"
+    ],
+    "answer": "Swaziland"
+  },
+  {
+    "id": 178,
+    "question": "This country has a disputed region called Nagorno-Karabakh.",
+    "choices": [
+      "Azerbaijan",
+      "Georgia",
+      "Armenia",
+      "Russia"
+    ],
+    "answer": "Azerbaijan"
+  },
+  {
+    "id": 179,
+    "question": "This country was known as Kampuchea during the 20th century.",
+    "choices": [
+      "Cambodia",
+      "Vietnam",
+      "Laos",
+      "Thailand"
+    ],
+    "answer": "Cambodia"
+  },
+  {
+    "id": 180,
+    "question": "This country\u2019s island of Bougainville is seeking independence.",
+    "choices": [
+      "Papua New Guinea",
+      "Fiji",
+      "Solomon Islands",
+      "Indonesia"
+    ],
+    "answer": "Papua New Guinea"
+  },
+  {
+    "id": 181,
+    "question": "This country\u2019s language uses the Georgian script, one of only a few unique alphabets in the world.",
+    "choices": [
+      "Georgia",
+      "Armenia",
+      "Azerbaijan",
+      "Iran"
+    ],
+    "answer": "Georgia"
+  },
+  {
+    "id": 182,
+    "question": "This country has a lake that changes colors due to different microorganisms.",
+    "choices": [
+      "Micronesia",
+      "Palau",
+      "Nauru",
+      "Marshall Islands"
+    ],
+    "answer": "Micronesia"
+  },
+  {
+    "id": 183,
+    "question": "This country is home to Mount Nyamuragira, one of Africa\u2019s most active volcanoes.",
+    "choices": [
+      "DR Congo",
+      "Rwanda",
+      "Ethiopia",
+      "Uganda"
+    ],
+    "answer": "DR Congo"
+  },
+  {
+    "id": 184,
+    "question": "This country controls the exclave of Cabinda, separated from its mainland.",
+    "choices": [
+      "Angola",
+      "Namibia",
+      "Mozambique",
+      "Tanzania"
+    ],
+    "answer": "Angola"
+  },
+  {
+    "id": 185,
+    "question": "This country is home to the Makgadikgadi salt pans, one of the largest in the world.",
+    "choices": [
+      "Botswana",
+      "Namibia",
+      "Zimbabwe",
+      "Zambia"
+    ],
+    "answer": "Botswana"
+  },
+  {
+    "id": 186,
+    "question": "This country was created after the split of the Federation of Malaya.",
+    "choices": [
+      "Malaysia",
+      "Singapore",
+      "Brunei",
+      "Indonesia"
+    ],
+    "answer": "Malaysia"
+  },
+  {
+    "id": 187,
+    "question": "This country has had five different capital cities throughout its history.",
+    "choices": [
+      "Nigeria",
+      "Sudan",
+      "Ethiopia",
+      "Iran"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 188,
+    "question": "This country was once ruled by Emperor Haile Selassie.",
+    "choices": [
+      "Ethiopia",
+      "Somalia",
+      "Chad",
+      "Eritrea"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 189,
+    "question": "This country hosts the tallest mountain in Antarctica (on its claimed territory).",
+    "choices": [
+      "Argentina",
+      "Chile",
+      "Norway",
+      "UK"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": 190,
+    "question": "This country is where the 1815 Congress that reshaped Europe took place.",
+    "choices": [
+      "Austria",
+      "France",
+      "Germany",
+      "Belgium"
+    ],
+    "answer": "Austria"
+  },
+  {
+    "id": 191,
+    "question": "This country\u2019s ethnic majority is known as the Bamar.",
+    "choices": [
+      "Myanmar",
+      "Thailand",
+      "Cambodia",
+      "Laos"
+    ],
+    "answer": "Myanmar"
+  },
+  {
+    "id": 192,
+    "question": "This country has a unique alphabet with 99 letters.",
+    "choices": [
+      "Cambodia",
+      "Thailand",
+      "Laos",
+      "Vietnam"
+    ],
+    "answer": "Cambodia"
+  },
+  {
+    "id": 193,
+    "question": "This country\u2019s traditional attire includes the 'gho' for men and 'kira' for women.",
+    "choices": [
+      "Bhutan",
+      "Nepal",
+      "Tibet",
+      "India"
+    ],
+    "answer": "Bhutan"
+  },
+  {
+    "id": 194,
+    "question": "This country is home to Lake Assal, one of the saltiest bodies of water on Earth.",
+    "choices": [
+      "Djibouti",
+      "Eritrea",
+      "Sudan",
+      "Somalia"
+    ],
+    "answer": "Djibouti"
+  },
+  {
+    "id": 195,
+    "question": "This country had a communist revolution known as the Saur Revolution.",
+    "choices": [
+      "Afghanistan",
+      "Iran",
+      "Pakistan",
+      "Tajikistan"
+    ],
+    "answer": "Afghanistan"
+  },
+  {
+    "id": 196,
+    "question": "This country is landlocked and has two major river systems: the Niger and the Benue.",
+    "choices": [
+      "Nigeria",
+      "Chad",
+      "Niger",
+      "Cameroon"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 197,
+    "question": "This country has a region called Balochistan that spans multiple countries.",
+    "choices": [
+      "Pakistan",
+      "Iran",
+      "Afghanistan",
+      "India"
+    ],
+    "answer": "Pakistan"
+  },
+  {
+    "id": 198,
+    "question": "This country\u2019s monarchy was abolished in 2008, transitioning to a republic.",
+    "choices": [
+      "Nepal",
+      "Bhutan",
+      "Thailand",
+      "Cambodia"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "id": 199,
+    "question": "This country\u2019s border encloses the world's oldest desert, the Namib.",
+    "choices": [
+      "Namibia",
+      "Botswana",
+      "South Africa",
+      "Angola"
+    ],
+    "answer": "Namibia"
+  },
+  {
+    "id": 200,
+    "question": "This country is one of two doubly landlocked countries in the world.",
+    "choices": [
+      "Liechtenstein",
+      "Uzbekistan",
+      "Kazakhstan",
+      "Austria"
+    ],
+    "answer": "Liechtenstein"
+  },
+  {
+    "id": 201,
+    "question": "This country is home to Mount Elbrus, the highest peak in Europe.",
+    "choices": [
+      "Russia",
+      "Georgia",
+      "Turkey",
+      "Ukraine"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": 202,
+    "question": "This country contains the Fergana Valley, a historically contested area.",
+    "choices": [
+      "Uzbekistan",
+      "Tajikistan",
+      "Kyrgyzstan",
+      "Afghanistan"
+    ],
+    "answer": "Uzbekistan"
+  },
+  {
+    "id": 203,
+    "question": "This country has an ancient kingdom known as Silla that unified its peninsula.",
+    "choices": [
+      "South Korea",
+      "North Korea",
+      "China",
+      "Vietnam"
+    ],
+    "answer": "South Korea"
+  },
+  {
+    "id": 204,
+    "question": "This country has a large ethnolinguistic group called the Oromo.",
+    "choices": [
+      "Ethiopia",
+      "Kenya",
+      "Somalia",
+      "Uganda"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 205,
+    "question": "This country has a famous blue city called Chefchaouen.",
+    "choices": [
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Libya"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 206,
+    "question": "This country is known for having three parallel mountain ranges called the Andes.",
+    "choices": [
+      "Colombia",
+      "Peru",
+      "Chile",
+      "Argentina"
+    ],
+    "answer": "Colombia"
+  },
+  {
+    "id": 207,
+    "question": "This country\u2019s capital has the same name as a US state.",
+    "choices": [
+      "Panama",
+      "Georgia",
+      "Montana",
+      "Nevada"
+    ],
+    "answer": "Panama"
+  },
+  {
+    "id": 208,
+    "question": "This country was part of the ancient Mali Empire and includes the city of S\u00e9gou.",
+    "choices": [
+      "Mali",
+      "Burkina Faso",
+      "Senegal",
+      "Mauritania"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "id": 209,
+    "question": "This country has a traditional leadership system involving paramount chiefs.",
+    "choices": [
+      "Fiji",
+      "Tonga",
+      "Samoa",
+      "Vanuatu"
+    ],
+    "answer": "Fiji"
+  },
+  {
+    "id": 210,
+    "question": "This country\u2019s national sport is camel racing, often held in desert stadiums.",
+    "choices": [
+      "UAE",
+      "Qatar",
+      "Saudi Arabia",
+      "Oman"
+    ],
+    "answer": "UAE"
+  },
+  {
+    "id": 211,
+    "question": "This country has a musical tradition called 'Fado', known for its melancholic tone.",
+    "choices": [
+      "Portugal",
+      "Spain",
+      "Italy",
+      "France"
+    ],
+    "answer": "Portugal"
+  },
+  {
+    "id": 212,
+    "question": "This country is the largest producer of opium poppies used legally in pharmaceuticals.",
+    "choices": [
+      "India",
+      "Turkey",
+      "Afghanistan",
+      "Pakistan"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 213,
+    "question": "This country\u2019s traditional dish is called 'feijoada', a black bean stew.",
+    "choices": [
+      "Brazil",
+      "Argentina",
+      "Colombia",
+      "Portugal"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 214,
+    "question": "This country was once home to the Phoenician civilization.",
+    "choices": [
+      "Lebanon",
+      "Greece",
+      "Syria",
+      "Tunisia"
+    ],
+    "answer": "Lebanon"
+  },
+  {
+    "id": 215,
+    "question": "This country\u2019s coast is shaped by the Tyrrhenian Sea.",
+    "choices": [
+      "Italy",
+      "France",
+      "Greece",
+      "Croatia"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": 216,
+    "question": "This country has a province named Transylvania.",
+    "choices": [
+      "Romania",
+      "Hungary",
+      "Slovakia",
+      "Austria"
+    ],
+    "answer": "Romania"
+  },
+  {
+    "id": 217,
+    "question": "This country\u2019s traditional stilt houses are called 'palafitos'.",
+    "choices": [
+      "Chile",
+      "Colombia",
+      "Brazil",
+      "Peru"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": 218,
+    "question": "This country is the birthplace of the tango dance.",
+    "choices": [
+      "Argentina",
+      "Uruguay",
+      "Spain",
+      "Brazil"
+    ],
+    "answer": "Argentina"
+  },
+  {
+    "id": 219,
+    "question": "This country is home to the Torres del Paine National Park.",
+    "choices": [
+      "Chile",
+      "Argentina",
+      "Bolivia",
+      "Paraguay"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": 220,
+    "question": "This country features the Banaue Rice Terraces, carved over 2,000 years ago.",
+    "choices": [
+      "Philippines",
+      "Vietnam",
+      "Indonesia",
+      "Thailand"
+    ],
+    "answer": "Philippines"
+  },
+  {
+    "id": 221,
+    "question": "This country is known for its production of blue pottery and miniature paintings in Jaipur.",
+    "choices": [
+      "India",
+      "Pakistan",
+      "Nepal",
+      "Bangladesh"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 222,
+    "question": "This country\u2019s traditional celebration of Nowruz marks the Persian New Year.",
+    "choices": [
+      "Iran",
+      "Iraq",
+      "Uzbekistan",
+      "Turkey"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 223,
+    "question": "This country\u2019s highest peak is Mount Damavand, a dormant volcano.",
+    "choices": [
+      "Iran",
+      "Iraq",
+      "Turkey",
+      "Syria"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 224,
+    "question": "This country is famous for its post-apartheid Truth and Reconciliation Commission.",
+    "choices": [
+      "South Africa",
+      "Namibia",
+      "Botswana",
+      "Mozambique"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 225,
+    "question": "This country\u2019s major ethnic groups include Hutu, Tutsi, and Twa.",
+    "choices": [
+      "Rwanda",
+      "Burundi",
+      "Uganda",
+      "DR Congo"
+    ],
+    "answer": "Rwanda"
+  },
+  {
+    "id": 226,
+    "question": "This country is home to the Valley of the Kings, where many pharaohs were buried.",
+    "choices": [
+      "Egypt",
+      "Sudan",
+      "Libya",
+      "Jordan"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "id": 227,
+    "question": "This country shares the island of Hispaniola with another sovereign state.",
+    "choices": [
+      "Haiti",
+      "Dominican Republic",
+      "Jamaica",
+      "Cuba"
+    ],
+    "answer": "Haiti"
+  },
+  {
+    "id": 228,
+    "question": "This country contains the historical city of Persepolis.",
+    "choices": [
+      "Iran",
+      "Turkey",
+      "Greece",
+      "Iraq"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 229,
+    "question": "This country is home to Taal Volcano, one of the world\u2019s smallest active volcanoes.",
+    "choices": [
+      "Philippines",
+      "Indonesia",
+      "Malaysia",
+      "Thailand"
+    ],
+    "answer": "Philippines"
+  },
+  {
+    "id": 230,
+    "question": "This country\u2019s most famous natural landmark is the Giant\u2019s Causeway.",
+    "choices": [
+      "Northern Ireland",
+      "Ireland",
+      "Scotland",
+      "Wales"
+    ],
+    "answer": "Northern Ireland"
+  },
+  {
+    "id": 231,
+    "question": "This country has a famous Viking Ship Museum in its capital.",
+    "choices": [
+      "Norway",
+      "Denmark",
+      "Sweden",
+      "Iceland"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": 232,
+    "question": "This country\u2019s signature cheese is halloumi, traditionally grilled.",
+    "choices": [
+      "Cyprus",
+      "Greece",
+      "Lebanon",
+      "Turkey"
+    ],
+    "answer": "Cyprus"
+  },
+  {
+    "id": 233,
+    "question": "This country\u2019s indigenous S\u00e1mi population spans across northern regions.",
+    "choices": [
+      "Norway",
+      "Finland",
+      "Sweden",
+      "Russia"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": 234,
+    "question": "This country is home to the Carpathian Mountains.",
+    "choices": [
+      "Ukraine",
+      "Slovakia",
+      "Poland",
+      "Romania"
+    ],
+    "answer": "Ukraine"
+  },
+  {
+    "id": 235,
+    "question": "This country features a natural wonder known as the Blue Hole.",
+    "choices": [
+      "Belize",
+      "Honduras",
+      "Bahamas",
+      "Barbados"
+    ],
+    "answer": "Belize"
+  },
+  {
+    "id": 236,
+    "question": "This country was ruled by Francisco Franco until the mid-1970s.",
+    "choices": [
+      "Spain",
+      "Portugal",
+      "Italy",
+      "Greece"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": 237,
+    "question": "This country\u2019s Lake Balaton is often called the 'Hungarian Sea'.",
+    "choices": [
+      "Hungary",
+      "Austria",
+      "Czech Republic",
+      "Slovakia"
+    ],
+    "answer": "Hungary"
+  },
+  {
+    "id": 238,
+    "question": "This country has the lowest elevation point on land, the Dead Sea shore.",
+    "choices": [
+      "Jordan",
+      "Israel",
+      "Palestine",
+      "Syria"
+    ],
+    "answer": "Jordan"
+  },
+  {
+    "id": 239,
+    "question": "This country\u2019s traditional drink is called 'arak', an anise-flavored spirit.",
+    "choices": [
+      "Lebanon",
+      "Syria",
+      "Turkey",
+      "Iran"
+    ],
+    "answer": "Lebanon"
+  },
+  {
+    "id": 240,
+    "question": "This country is known for the sport of sumo wrestling.",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Mongolia"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 241,
+    "question": "This country has the largest number of castles per capita in the world.",
+    "choices": [
+      "Wales",
+      "Scotland",
+      "Ireland",
+      "Germany"
+    ],
+    "answer": "Wales"
+  },
+  {
+    "id": 242,
+    "question": "This country\u2019s national animal is the oryx, a desert antelope.",
+    "choices": [
+      "Qatar",
+      "Oman",
+      "UAE",
+      "Bahrain"
+    ],
+    "answer": "Qatar"
+  },
+  {
+    "id": 243,
+    "question": "This country\u2019s capital is the northernmost in the world.",
+    "choices": [
+      "Iceland",
+      "Finland",
+      "Norway",
+      "Sweden"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": 244,
+    "question": "This country has a lake that sometimes turns blood red due to algae.",
+    "choices": [
+      "Tanzania",
+      "Kenya",
+      "Ethiopia",
+      "Zambia"
+    ],
+    "answer": "Tanzania"
+  },
+  {
+    "id": 245,
+    "question": "This country features the Danube Delta, a UNESCO Biosphere Reserve.",
+    "choices": [
+      "Romania",
+      "Bulgaria",
+      "Ukraine",
+      "Serbia"
+    ],
+    "answer": "Romania"
+  },
+  {
+    "id": 246,
+    "question": "This country is home to one of the oldest wine-making regions, Kakheti.",
+    "choices": [
+      "Georgia",
+      "Armenia",
+      "Moldova",
+      "Turkey"
+    ],
+    "answer": "Georgia"
+  },
+  {
+    "id": 247,
+    "question": "This country\u2019s Great Sand Sea borders Libya and contains unique desert rock formations.",
+    "choices": [
+      "Egypt",
+      "Algeria",
+      "Tunisia",
+      "Sudan"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "id": 248,
+    "question": "This country has the largest man-made lake in the world by surface area.",
+    "choices": [
+      "Ghana",
+      "Zambia",
+      "Zimbabwe",
+      "Namibia"
+    ],
+    "answer": "Ghana"
+  },
+  {
+    "id": 249,
+    "question": "This country\u2019s traditional horse games are celebrated in the Naadam Festival.",
+    "choices": [
+      "Mongolia",
+      "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan"
+    ],
+    "answer": "Mongolia"
+  },
+  {
+    "id": 250,
+    "question": "This country has more sheep than people and is known for wool exports.",
+    "choices": [
+      "New Zealand",
+      "Ireland",
+      "Australia",
+      "Scotland"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 251,
+    "question": "This country is landlocked yet controls the largest freshwater fleet in its region.",
+    "choices": [
+      "Paraguay",
+      "Bolivia",
+      "Hungary",
+      "Laos"
+    ],
+    "answer": "Paraguay"
+  },
+  {
+    "id": 252,
+    "question": "This country contains the mysterious stone jars of the Plain of Jars.",
+    "choices": [
+      "Laos",
+      "Vietnam",
+      "Cambodia",
+      "Thailand"
+    ],
+    "answer": "Laos"
+  },
+  {
+    "id": 253,
+    "question": "This country is home to the island of Socotra, known for alien-like dragon blood trees.",
+    "choices": [
+      "Yemen",
+      "Oman",
+      "Eritrea",
+      "Saudi Arabia"
+    ],
+    "answer": "Yemen"
+  },
+  {
+    "id": 254,
+    "question": "This country borders both the Atlantic and Indian Oceans.",
+    "choices": [
+      "South Africa",
+      "Namibia",
+      "Morocco",
+      "Angola"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 255,
+    "question": "This country is shaped like a boot and located in Southern Europe.",
+    "choices": [
+      "Italy",
+      "Greece",
+      "Portugal",
+      "Croatia"
+    ],
+    "answer": "Italy"
+  },
+  {
+    "id": 256,
+    "question": "This country\u2019s official religion is Theravada Buddhism, practiced by over 90% of its population.",
+    "choices": [
+      "Thailand",
+      "Sri Lanka",
+      "Cambodia",
+      "Myanmar"
+    ],
+    "answer": "Thailand"
+  },
+  {
+    "id": 257,
+    "question": "This country has a city called Timbuktu, once a legendary center of Islamic learning.",
+    "choices": [
+      "Mali",
+      "Niger",
+      "Chad",
+      "Senegal"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "id": 258,
+    "question": "This country was the site of the first atomic bomb test in the Southern Hemisphere.",
+    "choices": [
+      "Australia",
+      "South Africa",
+      "Argentina",
+      "Brazil"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 259,
+    "question": "This country hosts a mass reindeer migration twice a year across its tundra.",
+    "choices": [
+      "Russia",
+      "Norway",
+      "Canada",
+      "Finland"
+    ],
+    "answer": "Russia"
+  },
+  {
+    "id": 260,
+    "question": "This country has an unusual flag that is not a rectangle or square.",
+    "choices": [
+      "Nepal",
+      "Bhutan",
+      "Sri Lanka",
+      "Maldives"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "id": 261,
+    "question": "This country\u2019s government has three capital cities serving different branches.",
+    "choices": [
+      "South Africa",
+      "Netherlands",
+      "Germany",
+      "India"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 262,
+    "question": "This country is home to Petra, a city carved into rose-colored cliffs.",
+    "choices": [
+      "Jordan",
+      "Egypt",
+      "Iran",
+      "Iraq"
+    ],
+    "answer": "Jordan"
+  },
+  {
+    "id": 263,
+    "question": "This country is famous for its geothermal lagoons and volcanic activity.",
+    "choices": [
+      "Iceland",
+      "New Zealand",
+      "Japan",
+      "Norway"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": 264,
+    "question": "This country features the Darvaza gas crater, also called the 'Door to Hell'.",
+    "choices": [
+      "Turkmenistan",
+      "Uzbekistan",
+      "Kazakhstan",
+      "Iran"
+    ],
+    "answer": "Turkmenistan"
+  },
+  {
+    "id": 265,
+    "question": "This country has a rainforest called the Daintree, older than the Amazon.",
+    "choices": [
+      "Australia",
+      "Brazil",
+      "Malaysia",
+      "Indonesia"
+    ],
+    "answer": "Australia"
+  },
+  {
+    "id": 266,
+    "question": "This country is the birthplace of Confucius and Taoism.",
+    "choices": [
+      "China",
+      "Japan",
+      "Vietnam",
+      "South Korea"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 267,
+    "question": "This country includes the Vinson Massif, the tallest mountain in Antarctica (claimed).",
+    "choices": [
+      "Chile",
+      "Argentina",
+      "Norway",
+      "UK"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": 268,
+    "question": "This country\u2019s currency is the ringgit.",
+    "choices": [
+      "Malaysia",
+      "Indonesia",
+      "Philippines",
+      "Singapore"
+    ],
+    "answer": "Malaysia"
+  },
+  {
+    "id": 269,
+    "question": "This country has a controversial artificial archipelago known as The World.",
+    "choices": [
+      "UAE",
+      "Qatar",
+      "Bahrain",
+      "Saudi Arabia"
+    ],
+    "answer": "UAE"
+  },
+  {
+    "id": 270,
+    "question": "This country has fjords that rival those in Norway, such as Milford Sound.",
+    "choices": [
+      "New Zealand",
+      "Canada",
+      "Ireland",
+      "Iceland"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 271,
+    "question": "This country\u2019s coffee ceremony is a key part of its culture.",
+    "choices": [
+      "Ethiopia",
+      "Kenya",
+      "Colombia",
+      "Brazil"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 272,
+    "question": "This country has a unique rotating presidency shared by three members.",
+    "choices": [
+      "Bosnia and Herzegovina",
+      "Switzerland",
+      "Belgium",
+      "Luxembourg"
+    ],
+    "answer": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 273,
+    "question": "This country\u2019s name comes from the Tswana word for 'land of the Tswana'.",
+    "choices": [
+      "Botswana",
+      "Namibia",
+      "Lesotho",
+      "Zambia"
+    ],
+    "answer": "Botswana"
+  },
+  {
+    "id": 274,
+    "question": "This country is the only one in Africa never to have been colonized.",
+    "choices": [
+      "Ethiopia",
+      "Liberia",
+      "Somalia",
+      "Morocco"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 275,
+    "question": "This country\u2019s main island features a highland area called the Central Plateau.",
+    "choices": [
+      "Madagascar",
+      "Sri Lanka",
+      "Philippines",
+      "New Guinea"
+    ],
+    "answer": "Madagascar"
+  },
+  {
+    "id": 276,
+    "question": "This country produces more coconuts than any other in the world.",
+    "choices": [
+      "Indonesia",
+      "India",
+      "Philippines",
+      "Thailand"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 277,
+    "question": "This country\u2019s ancient city of Jericho is among the oldest continuously inhabited places.",
+    "choices": [
+      "Palestine",
+      "Israel",
+      "Jordan",
+      "Lebanon"
+    ],
+    "answer": "Palestine"
+  },
+  {
+    "id": 278,
+    "question": "This country has a historic salt trade city named Taghaza.",
+    "choices": [
+      "Mali",
+      "Niger",
+      "Chad",
+      "Mauritania"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "id": 279,
+    "question": "This country features the Great Buddha of Leshan, carved into a cliff.",
+    "choices": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Vietnam"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 280,
+    "question": "This country has a national holiday commemorating the end of apartheid.",
+    "choices": [
+      "South Africa",
+      "Namibia",
+      "Zimbabwe",
+      "Mozambique"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 281,
+    "question": "This country contains the White Desert, famous for its chalk rock formations.",
+    "choices": [
+      "Egypt",
+      "Algeria",
+      "Iran",
+      "Libya"
+    ],
+    "answer": "Egypt"
+  },
+  {
+    "id": 282,
+    "question": "This country\u2019s national flower is the Edelweiss, associated with Alpine folklore.",
+    "choices": [
+      "Switzerland",
+      "Austria",
+      "Germany",
+      "France"
+    ],
+    "answer": "Switzerland"
+  },
+  {
+    "id": 283,
+    "question": "This country has over 7,000 islands, only a fraction of which are inhabited.",
+    "choices": [
+      "Philippines",
+      "Indonesia",
+      "Malaysia",
+      "Japan"
+    ],
+    "answer": "Philippines"
+  },
+  {
+    "id": 284,
+    "question": "This country is the birthplace of reggae music.",
+    "choices": [
+      "Jamaica",
+      "Trinidad and Tobago",
+      "Haiti",
+      "Cuba"
+    ],
+    "answer": "Jamaica"
+  },
+  {
+    "id": 285,
+    "question": "This country is where the Maasai people live near vast wildlife reserves.",
+    "choices": [
+      "Kenya",
+      "Tanzania",
+      "Ethiopia",
+      "Uganda"
+    ],
+    "answer": "Kenya"
+  },
+  {
+    "id": 286,
+    "question": "This country is home to the Ganges Delta, the world's largest delta.",
+    "choices": [
+      "Bangladesh",
+      "India",
+      "Myanmar",
+      "Nepal"
+    ],
+    "answer": "Bangladesh"
+  },
+  {
+    "id": 287,
+    "question": "This country contains ancient cliff dwellings in Mesa Verde National Park.",
+    "choices": [
+      "USA",
+      "Mexico",
+      "Peru",
+      "Canada"
+    ],
+    "answer": "USA"
+  },
+  {
+    "id": 288,
+    "question": "This country\u2019s capital, Tashkent, was a key Silk Road trading hub.",
+    "choices": [
+      "Uzbekistan",
+      "Kazakhstan",
+      "Turkmenistan",
+      "Kyrgyzstan"
+    ],
+    "answer": "Uzbekistan"
+  },
+  {
+    "id": 289,
+    "question": "This country\u2019s island of Saba is known for having the world\u2019s shortest commercial runway.",
+    "choices": [
+      "Netherlands",
+      "Dominican Republic",
+      "Bahamas",
+      "Jamaica"
+    ],
+    "answer": "Netherlands"
+  },
+  {
+    "id": 290,
+    "question": "This country is home to the Altiplano plateau, one of the world\u2019s highest inhabited regions.",
+    "choices": [
+      "Bolivia",
+      "Peru",
+      "Chile",
+      "Argentina"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "id": 291,
+    "question": "This country has a UNESCO-listed historic capital called Gjirokast\u00ebr.",
+    "choices": [
+      "Albania",
+      "Macedonia",
+      "Greece",
+      "Serbia"
+    ],
+    "answer": "Albania"
+  },
+  {
+    "id": 292,
+    "question": "This country has a town called Chefchaouen, famous for its blue-washed buildings.",
+    "choices": [
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Egypt"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 293,
+    "question": "This country has a protected wildlife corridor called the Terai Arc Landscape.",
+    "choices": [
+      "Nepal",
+      "India",
+      "Bhutan",
+      "Bangladesh"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "id": 294,
+    "question": "This country\u2019s main island, Honshu, is home to over 100 active volcanoes.",
+    "choices": [
+      "Japan",
+      "Indonesia",
+      "Philippines",
+      "Papua New Guinea"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 295,
+    "question": "This country\u2019s Bia\u0142owie\u017ca Forest is one of Europe\u2019s last primeval woodlands.",
+    "choices": [
+      "Poland",
+      "Slovakia",
+      "Ukraine",
+      "Hungary"
+    ],
+    "answer": "Poland"
+  },
+  {
+    "id": 296,
+    "question": "This country\u2019s historic region of Wallachia is associated with the legend of Dracula.",
+    "choices": [
+      "Romania",
+      "Serbia",
+      "Hungary",
+      "Bulgaria"
+    ],
+    "answer": "Romania"
+  },
+  {
+    "id": 297,
+    "question": "This country has a desert known as Dasht-e Kavir, one of the hottest places on Earth.",
+    "choices": [
+      "Iran",
+      "Iraq",
+      "Saudi Arabia",
+      "Pakistan"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 298,
+    "question": "This country is home to the Berber people and the Atlas Mountains.",
+    "choices": [
+      "Morocco",
+      "Algeria",
+      "Tunisia",
+      "Egypt"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 299,
+    "question": "This country is home to the ancient city of Tikal, a major center of the Maya civilization.",
+    "choices": [
+      "Guatemala",
+      "Mexico",
+      "Honduras",
+      "Belize"
+    ],
+    "answer": "Guatemala"
+  },
+  {
+    "id": 300,
+    "question": "This country has a protected ecosystem known as the Pantanal, the world's largest tropical wetland.",
+    "choices": [
+      "Brazil",
+      "Paraguay",
+      "Bolivia",
+      "Argentina"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 301,
+    "question": "This country\u2019s Kandy Esala Perahera is a Buddhist festival famous for its decorated elephants.",
+    "choices": [
+      "Sri Lanka",
+      "Thailand",
+      "Myanmar",
+      "Nepal"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 302,
+    "question": "This country\u2019s capital, Baku, is located below sea level.",
+    "choices": [
+      "Azerbaijan",
+      "Kazakhstan",
+      "Turkmenistan",
+      "Georgia"
+    ],
+    "answer": "Azerbaijan"
+  },
+  {
+    "id": 303,
+    "question": "This country has a city called Luang Prabang known for its Buddhist temples and colonial architecture.",
+    "choices": [
+      "Laos",
+      "Vietnam",
+      "Thailand",
+      "Cambodia"
+    ],
+    "answer": "Laos"
+  },
+  {
+    "id": 304,
+    "question": "This country has an active volcano called Mount Erebus in Antarctica (territorial claim).",
+    "choices": [
+      "New Zealand",
+      "Chile",
+      "UK",
+      "Norway"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 305,
+    "question": "This country\u2019s coastline includes the Skeleton Coast, known for shipwrecks and desert.",
+    "choices": [
+      "Namibia",
+      "South Africa",
+      "Angola",
+      "Mozambique"
+    ],
+    "answer": "Namibia"
+  },
+  {
+    "id": 306,
+    "question": "This country hosts the Harbin International Ice and Snow Sculpture Festival.",
+    "choices": [
+      "China",
+      "Russia",
+      "Japan",
+      "South Korea"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 307,
+    "question": "This country has a unique region called the Caprivi Strip, a narrow extension of land.",
+    "choices": [
+      "Namibia",
+      "Botswana",
+      "Zambia",
+      "Angola"
+    ],
+    "answer": "Namibia"
+  },
+  {
+    "id": 308,
+    "question": "This country is home to the world\u2019s largest cave, Son Doong.",
+    "choices": [
+      "Vietnam",
+      "Laos",
+      "Thailand",
+      "China"
+    ],
+    "answer": "Vietnam"
+  },
+  {
+    "id": 309,
+    "question": "This country features a cultural region known as Brittany with strong Celtic roots.",
+    "choices": [
+      "France",
+      "Ireland",
+      "Spain",
+      "Belgium"
+    ],
+    "answer": "France"
+  },
+  {
+    "id": 310,
+    "question": "This country has a floating reed island community on Lake Titicaca.",
+    "choices": [
+      "Peru",
+      "Bolivia",
+      "Ecuador",
+      "Chile"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": 311,
+    "question": "This country is home to the endangered giant ibis, its national bird.",
+    "choices": [
+      "Cambodia",
+      "Vietnam",
+      "Laos",
+      "Thailand"
+    ],
+    "answer": "Cambodia"
+  },
+  {
+    "id": 312,
+    "question": "This country has a festival called Up Helly Aa celebrating Viking heritage.",
+    "choices": [
+      "Scotland",
+      "Iceland",
+      "Norway",
+      "Denmark"
+    ],
+    "answer": "Scotland"
+  },
+  {
+    "id": 313,
+    "question": "This country\u2019s indigenous Dayak people live primarily in the Borneo rainforest.",
+    "choices": [
+      "Indonesia",
+      "Malaysia",
+      "Philippines",
+      "Thailand"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 314,
+    "question": "This country has the most pyramids of any nation, even more than Egypt.",
+    "choices": [
+      "Sudan",
+      "Ethiopia",
+      "Libya",
+      "Egypt"
+    ],
+    "answer": "Sudan"
+  },
+  {
+    "id": 315,
+    "question": "This country\u2019s capital sits at the confluence of the Danube and Sava rivers.",
+    "choices": [
+      "Serbia",
+      "Hungary",
+      "Croatia",
+      "Bosnia"
+    ],
+    "answer": "Serbia"
+  },
+  {
+    "id": 316,
+    "question": "This country\u2019s Lake Sevan is one of the largest high-altitude freshwater lakes.",
+    "choices": [
+      "Armenia",
+      "Georgia",
+      "Iran",
+      "Turkey"
+    ],
+    "answer": "Armenia"
+  },
+  {
+    "id": 317,
+    "question": "This country\u2019s flag features a double-headed eagle and a red background.",
+    "choices": [
+      "Albania",
+      "Montenegro",
+      "Serbia",
+      "Kosovo"
+    ],
+    "answer": "Albania"
+  },
+  {
+    "id": 318,
+    "question": "This country\u2019s Easter celebration includes a whipping tradition called \u201cpoml\u00e1zka.\u201d",
+    "choices": [
+      "Czech Republic",
+      "Slovakia",
+      "Hungary",
+      "Poland"
+    ],
+    "answer": "Czech Republic"
+  },
+  {
+    "id": 319,
+    "question": "This country has a city named Timb\u00f3 and is known for its large German-Brazilian population.",
+    "choices": [
+      "Brazil",
+      "Argentina",
+      "Paraguay",
+      "Chile"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 320,
+    "question": "This country\u2019s island of Jeju is a popular honeymoon destination.",
+    "choices": [
+      "South Korea",
+      "Japan",
+      "China",
+      "Philippines"
+    ],
+    "answer": "South Korea"
+  },
+  {
+    "id": 321,
+    "question": "This country has the largest gold reserves in Europe by volume.",
+    "choices": [
+      "Germany",
+      "Switzerland",
+      "France",
+      "Italy"
+    ],
+    "answer": "Germany"
+  },
+  {
+    "id": 322,
+    "question": "This country\u2019s El Yunque is the only tropical rainforest in the U.S. National Forest System.",
+    "choices": [
+      "Puerto Rico",
+      "Hawaii",
+      "Florida",
+      "Guam"
+    ],
+    "answer": "Puerto Rico"
+  },
+  {
+    "id": 323,
+    "question": "This country\u2019s capital was designed by Oscar Niemeyer and resembles an airplane from above.",
+    "choices": [
+      "Brazil",
+      "Argentina",
+      "Peru",
+      "Colombia"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 324,
+    "question": "This country was once unified with Sweden until the early 20th century.",
+    "choices": [
+      "Norway",
+      "Denmark",
+      "Finland",
+      "Iceland"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": 325,
+    "question": "This country\u2019s island of Gozo is known for its historic \u0120gantija temples.",
+    "choices": [
+      "Malta",
+      "Cyprus",
+      "Italy",
+      "Greece"
+    ],
+    "answer": "Malta"
+  },
+  {
+    "id": 326,
+    "question": "This country is known for the traditional Inuit practice of building inuksuks.",
+    "choices": [
+      "Canada",
+      "Greenland",
+      "Norway",
+      "USA"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": 327,
+    "question": "This country\u2019s Great Rift Valley includes the freshwater Lake Malawi.",
+    "choices": [
+      "Malawi",
+      "Tanzania",
+      "Mozambique",
+      "Zambia"
+    ],
+    "answer": "Malawi"
+  },
+  {
+    "id": 328,
+    "question": "This country\u2019s Komodo dragons can be found only on a few islands in the archipelago.",
+    "choices": [
+      "Indonesia",
+      "Philippines",
+      "Malaysia",
+      "Thailand"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 329,
+    "question": "This country has a city called Osh, one of the oldest in Central Asia.",
+    "choices": [
+      "Kyrgyzstan",
+      "Uzbekistan",
+      "Kazakhstan",
+      "Tajikistan"
+    ],
+    "answer": "Kyrgyzstan"
+  },
+  {
+    "id": 330,
+    "question": "This country\u2019s southernmost point is called Cape Agulhas.",
+    "choices": [
+      "South Africa",
+      "Namibia",
+      "Angola",
+      "Mozambique"
+    ],
+    "answer": "South Africa"
+  },
+  {
+    "id": 331,
+    "question": "This country has the Djemaa el-Fna, a famous public square full of snake charmers and storytellers.",
+    "choices": [
+      "Morocco",
+      "Tunisia",
+      "Algeria",
+      "Egypt"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 332,
+    "question": "This country is known for the stepped rice terraces of Batad.",
+    "choices": [
+      "Philippines",
+      "Vietnam",
+      "Indonesia",
+      "Thailand"
+    ],
+    "answer": "Philippines"
+  },
+  {
+    "id": 333,
+    "question": "This country is famous for its floating torii gate at Itsukushima Shrine.",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "Taiwan",
+      "Vietnam"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 334,
+    "question": "This country\u2019s capital, Yerevan, is older than Rome.",
+    "choices": [
+      "Armenia",
+      "Iran",
+      "Georgia",
+      "Syria"
+    ],
+    "answer": "Armenia"
+  },
+  {
+    "id": 335,
+    "question": "This country is home to the Nubian Desert.",
+    "choices": [
+      "Sudan",
+      "Egypt",
+      "Eritrea",
+      "Libya"
+    ],
+    "answer": "Sudan"
+  },
+  {
+    "id": 336,
+    "question": "This country contains the Caspian Depression, one of the lowest points on Earth.",
+    "choices": [
+      "Kazakhstan",
+      "Russia",
+      "Iran",
+      "Azerbaijan"
+    ],
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 337,
+    "question": "This country is home to the Valley of Flowers National Park, a UNESCO site.",
+    "choices": [
+      "India",
+      "Nepal",
+      "Bhutan",
+      "Pakistan"
+    ],
+    "answer": "India"
+  },
+  {
+    "id": 338,
+    "question": "This country has a desert called the Dasht-e Lut, one of the hottest places recorded.",
+    "choices": [
+      "Iran",
+      "Iraq",
+      "Pakistan",
+      "Saudi Arabia"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 339,
+    "question": "This country\u2019s official language is Khmer.",
+    "choices": [
+      "Cambodia",
+      "Vietnam",
+      "Thailand",
+      "Laos"
+    ],
+    "answer": "Cambodia"
+  },
+  {
+    "id": 340,
+    "question": "This country is home to the rice terraces of Batad, a UNESCO site surrounded by amphitheater-like mountains.",
+    "choices": [
+      "Philippines",
+      "Vietnam",
+      "Indonesia",
+      "Thailand"
+    ],
+    "answer": "Philippines"
+  },
+  {
+    "id": 341,
+    "question": "This country\u2019s capital sits in a caldera surrounded by volcanoes.",
+    "choices": [
+      "Ecuador",
+      "Peru",
+      "Bolivia",
+      "Colombia"
+    ],
+    "answer": "Ecuador"
+  },
+  {
+    "id": 342,
+    "question": "This country\u2019s national dish is injera, a sour flatbread often served with stews.",
+    "choices": [
+      "Ethiopia",
+      "Eritrea",
+      "Somalia",
+      "Sudan"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 343,
+    "question": "This country\u2019s Sossusvlei region features towering red sand dunes.",
+    "choices": [
+      "Namibia",
+      "Botswana",
+      "Angola",
+      "South Africa"
+    ],
+    "answer": "Namibia"
+  },
+  {
+    "id": 344,
+    "question": "This country has a national dance called the Dabkeh.",
+    "choices": [
+      "Lebanon",
+      "Jordan",
+      "Syria",
+      "Iraq"
+    ],
+    "answer": "Lebanon"
+  },
+  {
+    "id": 345,
+    "question": "This country\u2019s border includes Victoria Falls, one of the world\u2019s largest waterfalls.",
+    "choices": [
+      "Zambia",
+      "Zimbabwe",
+      "Mozambique",
+      "Botswana"
+    ],
+    "answer": "Zambia"
+  },
+  {
+    "id": 346,
+    "question": "This country has an active volcano named Mount Merapi near a major city.",
+    "choices": [
+      "Indonesia",
+      "Philippines",
+      "Japan",
+      "Papua New Guinea"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 347,
+    "question": "This country is home to the historical city of Samarkand, a key stop on the Silk Road.",
+    "choices": [
+      "Uzbekistan",
+      "Iran",
+      "Turkmenistan",
+      "Afghanistan"
+    ],
+    "answer": "Uzbekistan"
+  },
+  {
+    "id": 348,
+    "question": "This country has a national park called Bwindi Impenetrable Forest, famous for mountain gorilla trekking.",
+    "choices": [
+      "Uganda",
+      "Rwanda",
+      "Kenya",
+      "DR Congo"
+    ],
+    "answer": "Uganda"
+  },
+  {
+    "id": 349,
+    "question": "This country celebrates its Independence Day with a tomato-throwing festival called Tomatina.",
+    "choices": [
+      "Spain",
+      "Italy",
+      "Mexico",
+      "Portugal"
+    ],
+    "answer": "Spain"
+  },
+  {
+    "id": 350,
+    "question": "This country has a region known as Transylvania, often associated with vampire legends.",
+    "choices": [
+      "Romania",
+      "Hungary",
+      "Slovakia",
+      "Moldova"
+    ],
+    "answer": "Romania"
+  },
+  {
+    "id": 351,
+    "question": "This country\u2019s capital was formerly called Edo.",
+    "choices": [
+      "Japan",
+      "China",
+      "South Korea",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 352,
+    "question": "This country contains the world\u2019s largest salt flat, Salar de Uyuni.",
+    "choices": [
+      "Bolivia",
+      "Chile",
+      "Argentina",
+      "Peru"
+    ],
+    "answer": "Bolivia"
+  },
+  {
+    "id": 353,
+    "question": "This country is known for the Tsingy de Bemaraha, a forest of limestone needles.",
+    "choices": [
+      "Madagascar",
+      "Tanzania",
+      "Cameroon",
+      "Gabon"
+    ],
+    "answer": "Madagascar"
+  },
+  {
+    "id": 354,
+    "question": "This country hosts the colorful Gion Matsuri festival each July.",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 355,
+    "question": "This country has a city called Baku with a Flame Towers skyline.",
+    "choices": [
+      "Azerbaijan",
+      "Turkey",
+      "Georgia",
+      "Kazakhstan"
+    ],
+    "answer": "Azerbaijan"
+  },
+  {
+    "id": 356,
+    "question": "This country is famous for producing oud, a fragrant resin used in perfumes.",
+    "choices": [
+      "Oman",
+      "Yemen",
+      "Saudi Arabia",
+      "UAE"
+    ],
+    "answer": "Oman"
+  },
+  {
+    "id": 357,
+    "question": "This country features the Omo Valley, home to diverse indigenous tribes.",
+    "choices": [
+      "Ethiopia",
+      "Kenya",
+      "South Sudan",
+      "Tanzania"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 358,
+    "question": "This country has a dance called dabke that is popular at weddings and gatherings.",
+    "choices": [
+      "Lebanon",
+      "Jordan",
+      "Palestine",
+      "Syria"
+    ],
+    "answer": "Lebanon"
+  },
+  {
+    "id": 359,
+    "question": "This country features the alpine Matterhorn mountain.",
+    "choices": [
+      "Switzerland",
+      "Austria",
+      "France",
+      "Italy"
+    ],
+    "answer": "Switzerland"
+  },
+  {
+    "id": 360,
+    "question": "This country is known for producing halloumi cheese.",
+    "choices": [
+      "Cyprus",
+      "Greece",
+      "Turkey",
+      "Lebanon"
+    ],
+    "answer": "Cyprus"
+  },
+  {
+    "id": 361,
+    "question": "This country has a large minority of Sami people in its north.",
+    "choices": [
+      "Norway",
+      "Sweden",
+      "Finland",
+      "Russia"
+    ],
+    "answer": "Norway"
+  },
+  {
+    "id": 362,
+    "question": "This country has the Zambezi River and Victoria Falls on its southern border.",
+    "choices": [
+      "Zambia",
+      "Zimbabwe",
+      "Botswana",
+      "Namibia"
+    ],
+    "answer": "Zambia"
+  },
+  {
+    "id": 363,
+    "question": "This country features an archaeological site called G\u00f6bekli Tepe, older than Stonehenge.",
+    "choices": [
+      "Turkey",
+      "Greece",
+      "Syria",
+      "Iran"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": 364,
+    "question": "This country was known as Ceylon until 1972.",
+    "choices": [
+      "Sri Lanka",
+      "India",
+      "Bangladesh",
+      "Pakistan"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 365,
+    "question": "This country\u2019s traditional sport is buzkashi, where players on horseback grab a goat carcass.",
+    "choices": [
+      "Afghanistan",
+      "Uzbekistan",
+      "Kazakhstan",
+      "Turkmenistan"
+    ],
+    "answer": "Afghanistan"
+  },
+  {
+    "id": 366,
+    "question": "This country is made up of about 33 coral atolls and is highly threatened by sea-level rise.",
+    "choices": [
+      "Kiribati",
+      "Maldives",
+      "Tuvalu",
+      "Marshall Islands"
+    ],
+    "answer": "Kiribati"
+  },
+  {
+    "id": 367,
+    "question": "This country has a historical site called Lalibela with rock-hewn churches.",
+    "choices": [
+      "Ethiopia",
+      "Eritrea",
+      "Sudan",
+      "Yemen"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 368,
+    "question": "This country is home to Paro Taktsang, a cliffside monastery also known as the Tiger\u2019s Nest.",
+    "choices": [
+      "Bhutan",
+      "Nepal",
+      "India",
+      "Tibet"
+    ],
+    "answer": "Bhutan"
+  },
+  {
+    "id": 369,
+    "question": "This country has a large ceremonial stone structure called Nan Madol built on a lagoon.",
+    "choices": [
+      "Micronesia",
+      "Palau",
+      "Tonga",
+      "Samoa"
+    ],
+    "answer": "Micronesia"
+  },
+  {
+    "id": 370,
+    "question": "This country has a ceremonial monarchy led by a Ngwenyama or 'Lion King.'",
+    "choices": [
+      "Eswatini",
+      "Lesotho",
+      "Botswana",
+      "Zambia"
+    ],
+    "answer": "Eswatini"
+  },
+  {
+    "id": 371,
+    "question": "This country is home to the Puyehue-Cord\u00f3n Caulle volcanic complex.",
+    "choices": [
+      "Chile",
+      "Argentina",
+      "Peru",
+      "Colombia"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": 372,
+    "question": "This country\u2019s flag features the outline of a map on it.",
+    "choices": [
+      "Cyprus",
+      "Kosovo",
+      "Malta",
+      "Armenia"
+    ],
+    "answer": "Cyprus"
+  },
+  {
+    "id": 373,
+    "question": "This country has a coastal city called Split, known for its Roman ruins.",
+    "choices": [
+      "Croatia",
+      "Greece",
+      "Italy",
+      "Montenegro"
+    ],
+    "answer": "Croatia"
+  },
+  {
+    "id": 374,
+    "question": "This country is famous for the unique Haenyeo women divers who harvest seafood without scuba gear.",
+    "choices": [
+      "South Korea",
+      "Japan",
+      "Vietnam",
+      "Philippines"
+    ],
+    "answer": "South Korea"
+  },
+  {
+    "id": 375,
+    "question": "This country is home to the nomadic Kazakh eagle hunters.",
+    "choices": [
+      "Mongolia",
+      "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan"
+    ],
+    "answer": "Mongolia"
+  },
+  {
+    "id": 376,
+    "question": "This country\u2019s flag features an AK-47 and a book.",
+    "choices": [
+      "Mozambique",
+      "Angola",
+      "Zimbabwe",
+      "Namibia"
+    ],
+    "answer": "Mozambique"
+  },
+  {
+    "id": 377,
+    "question": "This country has the only national flag that is not symmetrical.",
+    "choices": [
+      "Nepal",
+      "Bhutan",
+      "Sri Lanka",
+      "Maldives"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "id": 378,
+    "question": "This country\u2019s royal family traces its lineage back over 2,600 years.",
+    "choices": [
+      "Japan",
+      "Thailand",
+      "UK",
+      "Denmark"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 379,
+    "question": "This country\u2019s capital, Ngerulmud, is one of the least-populated capital cities in the world.",
+    "choices": [
+      "Palau",
+      "Tuvalu",
+      "Marshall Islands",
+      "Micronesia"
+    ],
+    "answer": "Palau"
+  },
+  {
+    "id": 380,
+    "question": "This country is known for the Guelaguetza festival celebrating Indigenous culture.",
+    "choices": [
+      "Mexico",
+      "Guatemala",
+      "Peru",
+      "Colombia"
+    ],
+    "answer": "Mexico"
+  },
+  {
+    "id": 381,
+    "question": "This country features the only rainforest in Europe.",
+    "choices": [
+      "Bosnia and Herzegovina",
+      "Slovenia",
+      "Bulgaria",
+      "Serbia"
+    ],
+    "answer": "Bosnia and Herzegovina"
+  },
+  {
+    "id": 382,
+    "question": "This country is the location of the Wulingyuan scenic area, a UNESCO site with sandstone pillars.",
+    "choices": [
+      "China",
+      "Vietnam",
+      "Thailand",
+      "Indonesia"
+    ],
+    "answer": "China"
+  },
+  {
+    "id": 383,
+    "question": "This country\u2019s capital, Ashgabat, holds the world record for the highest density of white marble buildings.",
+    "choices": [
+      "Turkmenistan",
+      "Uzbekistan",
+      "Azerbaijan",
+      "Iran"
+    ],
+    "answer": "Turkmenistan"
+  },
+  {
+    "id": 384,
+    "question": "This country has a remote village called Supai where mail is delivered by mule.",
+    "choices": [
+      "USA",
+      "Mexico",
+      "Canada",
+      "Brazil"
+    ],
+    "answer": "USA"
+  },
+  {
+    "id": 385,
+    "question": "This country hosts the annual Argungu Fishing Festival in a river using only nets.",
+    "choices": [
+      "Nigeria",
+      "Ghana",
+      "Benin",
+      "Cameroon"
+    ],
+    "answer": "Nigeria"
+  },
+  {
+    "id": 386,
+    "question": "This country\u2019s famed waterfall Dettifoss is the most powerful in Europe.",
+    "choices": [
+      "Iceland",
+      "Norway",
+      "Switzerland",
+      "Austria"
+    ],
+    "answer": "Iceland"
+  },
+  {
+    "id": 387,
+    "question": "This country features a landscape called Cappadocia, famous for fairy chimneys and hot air balloons.",
+    "choices": [
+      "Turkey",
+      "Jordan",
+      "Israel",
+      "Iran"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": 388,
+    "question": "This country\u2019s Whanganui River is legally recognized as a living person.",
+    "choices": [
+      "New Zealand",
+      "Australia",
+      "Papua New Guinea",
+      "Fiji"
+    ],
+    "answer": "New Zealand"
+  },
+  {
+    "id": 389,
+    "question": "This country has a national park called Torres del Paine, famous for its Patagonian peaks.",
+    "choices": [
+      "Chile",
+      "Argentina",
+      "Bolivia",
+      "Peru"
+    ],
+    "answer": "Chile"
+  },
+  {
+    "id": 390,
+    "question": "This country is made up of four main islands: Hokkaido, Honshu, Shikoku, and Kyushu.",
+    "choices": [
+      "Japan",
+      "Indonesia",
+      "Philippines",
+      "South Korea"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 391,
+    "question": "This country\u2019s traditional dwellings include circular thatched roof rondavels.",
+    "choices": [
+      "Lesotho",
+      "South Africa",
+      "Botswana",
+      "Namibia"
+    ],
+    "answer": "Lesotho"
+  },
+  {
+    "id": 392,
+    "question": "This country\u2019s capital was once the seat of the Kingdom of Axum.",
+    "choices": [
+      "Ethiopia",
+      "Eritrea",
+      "Sudan",
+      "Somalia"
+    ],
+    "answer": "Eritrea"
+  },
+  {
+    "id": 393,
+    "question": "This country celebrates its Water Festival, Thingyan, as a new year celebration.",
+    "choices": [
+      "Myanmar",
+      "Thailand",
+      "Cambodia",
+      "Laos"
+    ],
+    "answer": "Myanmar"
+  },
+  {
+    "id": 394,
+    "question": "This country\u2019s largest city is also home to the Grand Bazaar, one of the oldest covered markets in the world.",
+    "choices": [
+      "Turkey",
+      "Iran",
+      "India",
+      "Morocco"
+    ],
+    "answer": "Turkey"
+  },
+  {
+    "id": 395,
+    "question": "This country is the only one in the world with a national flag that is not a rectangle or square.",
+    "choices": [
+      "Nepal",
+      "Bhutan",
+      "Switzerland",
+      "Vatican City"
+    ],
+    "answer": "Nepal"
+  },
+  {
+    "id": 396,
+    "question": "This country\u2019s Blue Hole is a world-famous diving spot visible from space.",
+    "choices": [
+      "Belize",
+      "Bahamas",
+      "Fiji",
+      "Maldives"
+    ],
+    "answer": "Belize"
+  },
+  {
+    "id": 397,
+    "question": "This country\u2019s Serengeti is part of one of the world\u2019s largest animal migrations.",
+    "choices": [
+      "Tanzania",
+      "Kenya",
+      "Botswana",
+      "South Africa"
+    ],
+    "answer": "Tanzania"
+  },
+  {
+    "id": 398,
+    "question": "This country\u2019s national sport is sumo wrestling.",
+    "choices": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Thailand"
+    ],
+    "answer": "Japan"
+  },
+  {
+    "id": 399,
+    "question": "This country has a lake called Titicaca, shared with its southern neighbor.",
+    "choices": [
+      "Peru",
+      "Ecuador",
+      "Colombia",
+      "Chile"
+    ],
+    "answer": "Peru"
+  },
+  {
+    "id": 400,
+    "question": "This country has the capital city of Ljubljana, known for its dragons and bridges.",
+    "choices": [
+      "Slovenia",
+      "Slovakia",
+      "Czech Republic",
+      "Croatia"
+    ],
+    "answer": "Slovenia"
+  },
+  {
+    "id": 401,
+    "question": "This country has a city named Timbuktu, historically important in trans-Saharan trade.",
+    "choices": [
+      "Mali",
+      "Niger",
+      "Algeria",
+      "Chad"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "id": 402,
+    "question": "This country is the only one in Central America that doesn\u2019t touch the Caribbean Sea.",
+    "choices": [
+      "El Salvador",
+      "Honduras",
+      "Guatemala",
+      "Costa Rica"
+    ],
+    "answer": "El Salvador"
+  },
+  {
+    "id": 403,
+    "question": "This country is home to the rock fortress Sigiriya.",
+    "choices": [
+      "Sri Lanka",
+      "India",
+      "Bangladesh",
+      "Nepal"
+    ],
+    "answer": "Sri Lanka"
+  },
+  {
+    "id": 404,
+    "question": "This country has more lakes than all other countries combined.",
+    "choices": [
+      "Canada",
+      "Russia",
+      "USA",
+      "Brazil"
+    ],
+    "answer": "Canada"
+  },
+  {
+    "id": 405,
+    "question": "This country\u2019s national dish is feijoada, a black bean and pork stew.",
+    "choices": [
+      "Brazil",
+      "Portugal",
+      "Argentina",
+      "Colombia"
+    ],
+    "answer": "Brazil"
+  },
+  {
+    "id": 406,
+    "question": "This country has a region called Flanders where Dutch is spoken.",
+    "choices": [
+      "Belgium",
+      "Netherlands",
+      "Luxembourg",
+      "France"
+    ],
+    "answer": "Belgium"
+  },
+  {
+    "id": 407,
+    "question": "This country is home to the UNESCO World Heritage site of Petra.",
+    "choices": [
+      "Jordan",
+      "Lebanon",
+      "Israel",
+      "Egypt"
+    ],
+    "answer": "Jordan"
+  },
+  {
+    "id": 408,
+    "question": "This country is an island nation east of Madagascar and known for its dodo bird.",
+    "choices": [
+      "Mauritius",
+      "Seychelles",
+      "Maldives",
+      "Comoros"
+    ],
+    "answer": "Mauritius"
+  },
+  {
+    "id": 409,
+    "question": "This country is the world\u2019s largest archipelagic state.",
+    "choices": [
+      "Indonesia",
+      "Philippines",
+      "Japan",
+      "Greece"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 410,
+    "question": "This country has an underground salt cathedral near its capital.",
+    "choices": [
+      "Colombia",
+      "Peru",
+      "Bolivia",
+      "Chile"
+    ],
+    "answer": "Colombia"
+  },
+  {
+    "id": 411,
+    "question": "This country\u2019s oldest university is Al Quaraouiyine, founded in 859 CE.",
+    "choices": [
+      "Morocco",
+      "Egypt",
+      "Saudi Arabia",
+      "Iraq"
+    ],
+    "answer": "Morocco"
+  },
+  {
+    "id": 412,
+    "question": "This country has a pink lake called Lake Retba due to salt-loving algae.",
+    "choices": [
+      "Senegal",
+      "Namibia",
+      "Zambia",
+      "Gabon"
+    ],
+    "answer": "Senegal"
+  },
+  {
+    "id": 413,
+    "question": "This country has a royal cremation site known as the Royal Ploughing Ceremony.",
+    "choices": [
+      "Thailand",
+      "Cambodia",
+      "Myanmar",
+      "Laos"
+    ],
+    "answer": "Thailand"
+  },
+  {
+    "id": 414,
+    "question": "This country\u2019s highest peak is Jaya Peak, located in Western New Guinea.",
+    "choices": [
+      "Indonesia",
+      "Papua New Guinea",
+      "Philippines",
+      "Malaysia"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 415,
+    "question": "This country has a desert called the Dasht-e Kavir.",
+    "choices": [
+      "Iran",
+      "Iraq",
+      "Syria",
+      "Jordan"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 416,
+    "question": "This country was once part of a union with Egypt called the United Arab Republic.",
+    "choices": [
+      "Syria",
+      "Jordan",
+      "Lebanon",
+      "Sudan"
+    ],
+    "answer": "Syria"
+  },
+  {
+    "id": 417,
+    "question": "This country uses a unique calendar that is roughly 7\u20138 years behind the Gregorian calendar.",
+    "choices": [
+      "Ethiopia",
+      "Nepal",
+      "Iran",
+      "India"
+    ],
+    "answer": "Ethiopia"
+  },
+  {
+    "id": 418,
+    "question": "This country is the leading producer of vanilla worldwide.",
+    "choices": [
+      "Madagascar",
+      "Mexico",
+      "Indonesia",
+      "Thailand"
+    ],
+    "answer": "Madagascar"
+  },
+  {
+    "id": 419,
+    "question": "This country is home to the ancient city of Carthage, once a major power in the Mediterranean.",
+    "choices": [
+      "Tunisia",
+      "Libya",
+      "Algeria",
+      "Egypt"
+    ],
+    "answer": "Tunisia"
+  },
+  {
+    "id": 420,
+    "question": "This country's city of Timbuktu was a historic center of Islamic learning.",
+    "choices": [
+      "Mali",
+      "Niger",
+      "Nigeria",
+      "Chad"
+    ],
+    "answer": "Mali"
+  },
+  {
+    "id": 421,
+    "question": "This country celebrates Nowruz, the Persian New Year, as a major holiday.",
+    "choices": [
+      "Iran",
+      "Afghanistan",
+      "Turkey",
+      "Uzbekistan"
+    ],
+    "answer": "Iran"
+  },
+  {
+    "id": 422,
+    "question": "This country is known for the ancient ruins of Tikal, a major Mayan city.",
+    "choices": [
+      "Guatemala",
+      "Mexico",
+      "Honduras",
+      "Belize"
+    ],
+    "answer": "Guatemala"
+  },
+  {
+    "id": 423,
+    "question": "This country's traditional dish 'beshbarmak' means 'five fingers' and is eaten by hand.",
+    "choices": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Turkmenistan"
+    ],
+    "answer": "Kazakhstan"
+  },
+  {
+    "id": 424,
+    "question": "This country has a large city called Surabaya on the island of Java.",
+    "choices": [
+      "Indonesia",
+      "Philippines",
+      "Malaysia",
+      "Vietnam"
+    ],
+    "answer": "Indonesia"
+  },
+  {
+    "id": 425,
+    "question": "This country is known for the Bagan temples, an ancient city of over 2,000 Buddhist monuments.",
+    "choices": [
+      "Myanmar",
+      "Thailand",
+      "Cambodia",
+      "Sri Lanka"
+    ],
+    "answer": "Myanmar"
+  },
+  {
+    "id": 426,
+    "question": "This country\u2019s Lake Balaton is the largest lake in Central Europe.",
+    "choices": [
+      "Hungary",
+      "Austria",
+      "Slovenia",
+      "Croatia"
+    ],
+    "answer": "Hungary"
+  },
+  {
+    "id": 427,
+    "question": "This country\u2019s capital city is Yamoussoukro, but its largest city is Abidjan.",
+    "choices": [
+      "Ivory Coast",
+      "Ghana",
+      "Cameroon",
+      "Senegal"
+    ],
+    "answer": "Ivory Coast"
+  },
+  {
+    "id": 428,
+    "question": "This country is home to the ancient Nabatean city of Hegra, similar to Petra.",
+    "choices": [
+      "Saudi Arabia",
+      "Jordan",
+      "Oman",
+      "UAE"
+    ],
+    "answer": "Saudi Arabia"
+  },
+  {
+    "id": 429,
+    "question": "This country has a controversial sea border with Venezuela over the Essequibo region.",
+    "choices": [
+      "Guyana",
+      "Suriname",
+      "Brazil",
+      "Colombia"
+    ],
+    "answer": "Guyana"
+  }
+]
